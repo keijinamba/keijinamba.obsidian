@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "c9627ddc1f068eeb",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1eb0c0d1bec613a",
+  "active": "cb4228be23b14fb5",
   "lastOpenFiles": [
     "Biology/鹿について.md",
     "Biology"
