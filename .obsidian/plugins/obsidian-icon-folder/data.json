@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEarth",
       "LiWine",
       "LiImages",
       "LiDog"
@@ -34,5 +35,6 @@
   },
   "Biology": "LiDog",
   "Assets": "LiImages",
-  "Wine": "LiWine"
+  "Wine": "LiWine",
+  "Geography": "LiEarth"
 }
