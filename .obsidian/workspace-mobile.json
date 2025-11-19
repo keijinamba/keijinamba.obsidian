@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "セイロン茶.md",
+                "file": "Biology/鹿について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "セイロン茶"
+              "title": "鹿について"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "バックリンク"
+          "title": "Backlinks"
         }
       },
       {
@@ -186,8 +186,10 @@
   },
   "active": "400102b5ddc5754b",
   "lastOpenFiles": [
+    "Geography/なぜ砂漠のほとんどは大陸の西側に形成されるの？.md",
+    "Tea/セイロン茶.md",
+    "Assets/Images/IMG_8382.jpeg",
     "Biology/鹿について.md",
-    "セイロン茶.md",
     "Assets/Images/by28oplvvzp51.webp",
     "Assets/Images",
     "Assets",
