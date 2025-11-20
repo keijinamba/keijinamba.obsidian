@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:Programming  ",
       "color": {
         "a": 1,
-        "rgb": 14750890
+        "rgb": 14125506
+      }
+    },
+    {
+      "query": "path:Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 11720615
+      }
+    },
+    {
+      "query": "path:Geography  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
