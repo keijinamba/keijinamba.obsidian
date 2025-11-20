@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Native/RevenueCat.md",
+                "file": "Programming/Native/RevenueCatの設定手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RevenueCat"
+              "title": "RevenueCatの設定手順"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Native/RevenueCat.md",
+                "file": "Programming/Native/RevenueCatの設定手順.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "RevenueCatへのバックリンク"
+              "title": "RevenueCatの設定手順へのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Native/RevenueCat.md",
+                "file": "Programming/Native/RevenueCatの設定手順.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "RevenueCatからのアウトゴーイングリンク"
+              "title": "RevenueCatの設定手順からのアウトゴーイングリンク"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Native/RevenueCat.md",
+                "file": "Programming/Native/RevenueCatの設定手順.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RevenueCatのアウトライン"
+              "title": "RevenueCatの設定手順のアウトライン"
             }
           },
           {
@@ -211,7 +211,7 @@
   },
   "active": "3d6279bfc17565d2",
   "lastOpenFiles": [
-    "Programming/Native/RevenueCat.md",
+    "Programming/Native/RevenueCatの設定手順.md",
     "Programming/Native",
     "Programming",
     "Tea/セイロン茶.md",

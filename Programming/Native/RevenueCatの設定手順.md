@@ -1,4 +1,4 @@
-# RevenueCatの設定
+#Expo #RevenueCat #ReactNative #AppStoreConnect
 
 Expo（React Native）アプリでRevenueCatを利用する場合、App Store ConnectやRevenueCat Dashboardでの事前設定が重要です。以下の手順は実機テストおよび本番リリースでRevenueCatを正しく動作させるためのチェックリストです。
 
