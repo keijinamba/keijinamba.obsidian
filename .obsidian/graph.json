@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Programming  ",
       "color": {
         "a": 1,
-        "rgb": 14125506
+        "rgb": 15367117
       }
     },
     {
       "query": "path:Biology  ",
       "color": {
         "a": 1,
-        "rgb": 11720615
+        "rgb": 16116341
       }
     },
     {
       "query": "path:Geography  ",
       "color": {
         "a": 1,
-        "rgb": 14726799
+        "rgb": 16035436
       }
     },
     {
