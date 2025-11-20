@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "鹿について"
             }
-          },
-          {
-            "id": "400102b5ddc5754b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Wine/France.canvas",
-                "viewState": {
-                  "x": 17,
-                  "y": -154.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "France"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "400102b5ddc5754b",
+  "active": "e7ac249a76f34167",
   "lastOpenFiles": [
+    "Wine/France.canvas",
     "Programming/Native/RevenueCatの設定手順.md",
     "Biology/鹿について.md",
     "Geography/なぜ砂漠のほとんどは大陸の西側に形成されるの？.md",
