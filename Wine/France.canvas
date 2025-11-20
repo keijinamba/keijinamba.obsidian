@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"00a432b22953edff","x":-108,"y":-150,"width":250,"height":60,"type":"text","text":"wine"}
+		{"id":"00a432b22953edff","type":"text","text":"wine","x":-108,"y":-150,"width":250,"height":60},
+		{"id":"cb53dbecfcecb05f","x":240,"y":-150,"width":400,"height":400,"type":"file","file":"Programming/Chrome/Chromeで一時停止する方法.md"}
 	],
 	"edges":[]
 }
