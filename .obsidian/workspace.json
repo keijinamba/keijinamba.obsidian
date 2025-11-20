@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "鹿について"
             }
-          },
-          {
-            "id": "3d6279bfc17565d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Wine/France.canvas",
-                "viewState": {
-                  "x": 15.14,
-                  "y": -122.79,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "France"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/France.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Franceへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -131,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/France.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Franceからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -174,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/France.canvas",
+                "file": "無題のファイル.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Franceのアウトライン"
+              "title": "無題のファイルのアウトライン"
             }
           },
           {
@@ -212,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d6279bfc17565d2",
+  "active": "c7f78908a0a58d68",
   "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "無題のファイル.base",
+    "Wine/France.canvas",
     "Programming/Chrome/Chromeで一時停止する方法.md",
     "Assets/Images/スクリーンショット 2025-11-20 18.04.39.png",
     "Programming/Chrome",
@@ -230,14 +213,12 @@
     "Untitled.md",
     "Tea",
     "Geography/なぜ砂漠のほとんどは大陸の西側に形成されるの？.md",
-    "Wine/France.canvas",
     "Geography",
     "Biology/鹿について.md",
     "Wine/無題のファイル.base",
     "Wine",
     "Assets/Images/by28oplvvzp51.webp",
     "Assets/Images",
-    "Assets",
     "IMG_8257.jpeg"
   ]
 }
