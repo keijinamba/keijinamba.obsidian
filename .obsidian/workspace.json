@@ -11,17 +11,14 @@
             "id": "f1eb0c0d1bec613a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wine/France.canvas",
-                "viewState": {
-                  "x": 183.72000000000003,
-                  "y": 396.77999999999986,
-                  "zoom": 0
-                }
+                "file": "Wine/Templates/Tasting Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "France"
+              "icon": "lucide-file",
+              "title": "Tasting Note"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/France.canvas",
+                "file": "Wine/Templates/Tasting Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Franceへのバックリンク"
+              "title": "Tasting Noteへのバックリンク"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/France.canvas",
+                "file": "Wine/Templates/Tasting Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Franceからのアウトゴーイングリンク"
+              "title": "Tasting Noteからのアウトゴーイングリンク"
             }
           },
           {
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/France.canvas",
+                "file": "Wine/Templates/Tasting Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Franceのアウトライン"
+              "title": "Tasting Noteのアウトライン"
             }
           },
           {
@@ -199,6 +196,7 @@
   },
   "active": "f1eb0c0d1bec613a",
   "lastOpenFiles": [
+    "Wine/France.canvas",
     "Wine/France/Overview.md",
     "Biology/鹿について.md",
     "Wine/France/無題のファイル.md",
@@ -208,7 +206,6 @@
     "無題のファイル.base",
     "Wine/France",
     "無題のファイル.canvas",
-    "Wine/France.canvas",
     "Programming/Chrome/Chromeで一時停止する方法.md",
     "Assets/Images/スクリーンショット 2025-11-20 18.04.39.png",
     "Programming/Chrome",
