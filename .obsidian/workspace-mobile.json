@@ -25,14 +25,17 @@
             "id": "400102b5ddc5754b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programming/Native/RevenueCatの設定手順.md",
-                "mode": "source",
-                "source": false
+                "file": "Wine/France.canvas",
+                "viewState": {
+                  "x": 17,
+                  "y": -154.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "RevenueCatの設定手順"
+              "icon": "lucide-layout-dashboard",
+              "title": "France"
             }
           }
         ],
@@ -186,6 +189,7 @@
   },
   "active": "400102b5ddc5754b",
   "lastOpenFiles": [
+    "Programming/Native/RevenueCatの設定手順.md",
     "Biology/鹿について.md",
     "Geography/なぜ砂漠のほとんどは大陸の西側に形成されるの？.md",
     "Tea/セイロン茶.md",
