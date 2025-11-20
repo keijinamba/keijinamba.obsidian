@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/鹿について.md",
+                "file": "Wine/France/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鹿について"
+              "title": "Overview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/鹿について.md",
+                "file": "Wine/France/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "鹿についてへのバックリンク"
+              "title": "Overviewへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/鹿について.md",
+                "file": "Wine/France/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "鹿についてからのアウトゴーイングリンク"
+              "title": "Overviewからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/鹿について.md",
+                "file": "Wine/France/Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "鹿についてのアウトライン"
+              "title": "Overviewのアウトライン"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "f1eb0c0d1bec613a",
   "lastOpenFiles": [
+    "Biology/鹿について.md",
     "Wine/France/Overview.md",
     "Wine/France/無題のファイル.md",
     "Wine/Templates/Tasting Note.md",
@@ -222,7 +223,6 @@
     "Tea",
     "Geography/なぜ砂漠のほとんどは大陸の西側に形成されるの？.md",
     "Geography",
-    "Biology/鹿について.md",
     "Wine/無題のファイル.base",
     "Assets/Images/by28oplvvzp51.webp",
     "IMG_8257.jpeg"
