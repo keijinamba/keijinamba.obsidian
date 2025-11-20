@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Chrome/Chromeで一時停止する方法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -211,6 +211,7 @@
   },
   "active": "3d6279bfc17565d2",
   "lastOpenFiles": [
+    "Assets/Images/スクリーンショット 2025-11-20 18.04.39.png",
     "Programming/Chrome/Chromeで一時停止する方法.md",
     "Programming/Chrome",
     "Programming/Native/Chrome",

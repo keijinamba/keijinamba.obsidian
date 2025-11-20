@@ -3,6 +3,7 @@
 > [!summary] 概要
 > Chrome DevToolsでCanvasやポップアップなど、通常の要素検証が難しいUIを強制的に表示させたまま検証するテクニック。Sourceタブで実行を一時停止し、hover状態を固定する。
 
+![[スクリーンショット 2025-11-20 18.04.39.png]]
 ## 手順
 
 1. DevToolsで `Sources` タブを開く。
