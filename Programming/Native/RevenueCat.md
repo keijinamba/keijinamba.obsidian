@@ -1,4 +1,4 @@
-# ExpoでRevenueCatを利用する際の設定手順
+# RevenueCatの設定
 
 Expo（React Native）アプリでRevenueCatを利用する場合、App Store ConnectやRevenueCat Dashboardでの事前設定が重要です。以下の手順は実機テストおよび本番リリースでRevenueCatを正しく動作させるためのチェックリストです。
 
@@ -54,36 +54,7 @@ Expo（React Native）アプリでRevenueCatを利用する場合、App Store�
     - RevenueCatのプロジェクト設定からiOS用の公開鍵（API Key）を取得し、アプリの初期化に使用します。
         
 
-## 3. Expoアプリ（React Native）での実装
-
-1. **ライブラリのインストール**
-    
-    - `@react-native-async-storage/async-storage` と `react-native-purchases` をインストールし、Expo環境でautolinking対応を行います。
-        
-    - Expo Config Pluginsを利用してネイティブ設定を適用します（e.g., `expo prebuild` を使う場合）。
-        
-2. **RevenueCatの初期化**
-    
-    - アプリ起動時に `Purchases.configure({ apiKey: "YOUR_PUBLIC_API_KEY" })` を呼び出し、必要に応じて `appUserID` や `observerMode` を指定します。
-        
-    - デバッグ用と本番用でプロジェクトを分ける場合、環境変数でAPIキーを切り替えます。
-        
-3. **オファリングの取得とPaywall表示**
-    
-    - 購入画面で `await Purchases.getOfferings()` を呼び出し、`offerings.current` からパッケージ情報を取得して表示します。
-        
-    - 購入処理は `Purchases.purchasePackage(package)` を呼び出します。成功後は `customerInfo` を確認してEntitlementがアクティブかチェックします。
-        
-4. **iOSシミュレータの既知の不具合への対応**
-    
-    - iOS 18.4〜18.6シミュレータではStoreKit 2のバグによりオファリングが取得できない場合があります[github.com](https://github.com/RevenueCat/purchases-ios/issues/4954#:~:text=This%20could%20be%20related%20to,to%20reproduce%20this%20issue%20yourself)。その場合、実機で開発ビルドをインストールしてテストするか、App Store ConnectからStoreKit Configurationファイルをダウンロードして利用します。
-        
-5. **購入の同期と復元**
-    
-    - オファーコードなど外部のRedeemで購入した場合やアプリを再インストールした場合、`Purchases.syncPurchases()` または `Purchases.restorePurchases()` を呼び出して情報を同期します[revenuecat.com](https://www.revenuecat.com/docs/subscription-guidance/subscription-offers/ios-subscription-offers#:~:text=To%20allow%20your%20users%20to,method)。
-        
-
-## 4. テスト時の注意点
+## 3. テスト時の注意点
 
 - **プロダクトの伝播時間**：App Store Connectで新規作成したサブスクリプションやIntroオファーは反映に数時間〜24時間かかることがあります。設定後すぐに取得できない場合は時間を置いてから試すと良いでしょう。
     
