@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Templates/Tasting Note.md",
+                "file": "Wine/France/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasting Note"
+              "title": "Overview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Templates/Tasting Note.md",
+                "file": "Wine/France/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Tasting Noteへのバックリンク"
+              "title": "Overviewへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Templates/Tasting Note.md",
+                "file": "Wine/France/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tasting Noteからのアウトゴーイングリンク"
+              "title": "Overviewからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Templates/Tasting Note.md",
+                "file": "Wine/France/Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Tasting Noteのアウトライン"
+              "title": "Overviewのアウトライン"
             }
           },
           {
@@ -196,11 +196,11 @@
   },
   "active": "f1eb0c0d1bec613a",
   "lastOpenFiles": [
+    "Wine/Templates/Tasting Note.md",
     "Wine/France.canvas",
     "Wine/France/Overview.md",
     "Biology/鹿について.md",
     "Wine/France/無題のファイル.md",
-    "Wine/Templates/Tasting Note.md",
     "Wine/Templates",
     "Wine/Index.md",
     "無題のファイル.base",
