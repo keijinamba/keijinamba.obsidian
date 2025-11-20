@@ -11,14 +11,17 @@
             "id": "f1eb0c0d1bec613a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Wine/France/Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Wine/France.canvas",
+                "viewState": {
+                  "x": 183.72000000000003,
+                  "y": 396.77999999999986,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Overview"
+              "icon": "lucide-layout-dashboard",
+              "title": "France"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/France/Overview.md",
+                "file": "Wine/France.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Overviewへのバックリンク"
+              "title": "Franceへのバックリンク"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/France/Overview.md",
+                "file": "Wine/France.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Overviewからのアウトゴーイングリンク"
+              "title": "Franceからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/France/Overview.md",
+                "file": "Wine/France.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Overviewのアウトライン"
+              "title": "Franceのアウトライン"
             }
           },
           {
@@ -196,8 +199,8 @@
   },
   "active": "f1eb0c0d1bec613a",
   "lastOpenFiles": [
-    "Biology/鹿について.md",
     "Wine/France/Overview.md",
+    "Biology/鹿について.md",
     "Wine/France/無題のファイル.md",
     "Wine/Templates/Tasting Note.md",
     "Wine/Templates",
