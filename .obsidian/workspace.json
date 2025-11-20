@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/鹿について.md",
+                "file": "Wine/France/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鹿について"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wine/France/無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "無題のファイルへのバックリンク"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wine/France/無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "無題のファイルからのアウトゴーイングリンク"
             }
           },
           {
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "Wine/France/無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f78908a0a58d68",
+  "active": "f1eb0c0d1bec613a",
   "lastOpenFiles": [
-    "無題のファイル.canvas",
     "無題のファイル.base",
+    "Wine/France/無題のファイル.md",
+    "Wine/France",
+    "無題のファイル.canvas",
     "Wine/France.canvas",
     "Programming/Chrome/Chromeで一時停止する方法.md",
     "Assets/Images/スクリーンショット 2025-11-20 18.04.39.png",
@@ -218,7 +222,6 @@
     "Wine/無題のファイル.base",
     "Wine",
     "Assets/Images/by28oplvvzp51.webp",
-    "Assets/Images",
     "IMG_8257.jpeg"
   ]
 }
