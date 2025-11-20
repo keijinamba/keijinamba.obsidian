@@ -17,12 +17,6 @@ Expo（React Native）アプリでRevenueCatを利用する場合、App Store�
       
 3. **App‑specific Shared Secretの取得**
     - App Store Connectの「App 情報」→「App 特有の共有シークレット」で生成したShared SecretをRevenueCatのiOS設定に貼り付けます[medium.com](https://medium.com/@talhanoman61/revenuecat-offerings-not-loading-on-ios-heres-what-actually-fixed-it-bb45c0a15aed#:~:text=5.%20Set%20the%20App,Secret%20in%20RevenueCat)。
-    
-4. **test**
-	- aaa
-
-5. aaa
-    - asss
 
 
 ## 2. RevenueCat Dashboardでの設定
