@@ -8,7 +8,7 @@
 - [ ] Paid Applications Agreementに同意し、**税務・銀行情報**まで承認済み
 - [ ] Sandboxテスターの情報を最新化
 - [ ] デバッグ用／本番用 Bundle ID、証明書、プロビジョニングを整理
-- [ ] RevenueCat API Key & Shared Secretを安全な場所に保管
+- [ ] RevenueCat API Key & Shared Secretを安全な場所に保管（意外と重要）
 
 ---
 
