@@ -1,4 +1,87 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes": [
+		{
+			"id": "node-overview",
+			"type": "file",
+			"file": "Wine/France/Overview.md",
+			"x": 0,
+			"y": 0,
+			"width": 380,
+			"height": 260
+		},
+		{
+			"id": "node-bordeaux",
+			"type": "text",
+			"text": "# ボルドー\n- 左岸: Cab Sauv主体\n- 右岸: Merlot主体\n- [[Wine/France/Overview#ボルドー|詳細]]",
+			"x": -420,
+			"y": -20,
+			"width": 300,
+			"height": 220,
+			"background": "#fff7e6"
+		},
+		{
+			"id": "node-bourgogne",
+			"type": "text",
+			"text": "# ブルゴーニュ\n- Pinot Noir / Chardonnay\n- クリマ, 区画法\n- [[Wine/France/Overview#ブルゴーニュ|詳細]]",
+			"x": 460,
+			"y": -30,
+			"width": 320,
+			"height": 220,
+			"background": "#f6f0ff"
+		},
+		{
+			"id": "node-loire",
+			"type": "text",
+			"text": "# ロワール\n- SB, Chenin, Cab Franc\n- ナント→トゥーレーヌ\n- [[Wine/France/Overview#ロワール|詳細]]",
+			"x": -120,
+			"y": 300,
+			"width": 300,
+			"height": 210,
+			"background": "#e7fbff"
+		},
+		{
+			"id": "node-champagne",
+			"type": "text",
+			"text": "# シャンパーニュ\n- PN / Meunier / CH\n- NVとVintage\n- [[Wine/France/Overview#シャンパーニュ|詳細]]",
+			"x": 420,
+			"y": -360,
+			"width": 300,
+			"height": 200,
+			"background": "#fff0f6"
+		}
+	],
+	"edges": [
+		{
+			"id": "edge-1",
+			"fromNode": "node-overview",
+			"fromSide": "left",
+			"toNode": "node-bordeaux",
+			"toSide": "right",
+			"color": "#8c704d"
+		},
+		{
+			"id": "edge-2",
+			"fromNode": "node-overview",
+			"fromSide": "right",
+			"toNode": "node-bourgogne",
+			"toSide": "left",
+			"color": "#5c638c"
+		},
+		{
+			"id": "edge-3",
+			"fromNode": "node-overview",
+			"fromSide": "bottom",
+			"toNode": "node-loire",
+			"toSide": "top",
+			"color": "#3a7c84"
+		},
+		{
+			"id": "edge-4",
+			"fromNode": "node-overview",
+			"fromSide": "top",
+			"toNode": "node-champagne",
+			"toSide": "bottom",
+			"color": "#a34f6d"
+		}
+	]
 }
