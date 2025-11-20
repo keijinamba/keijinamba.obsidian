@@ -25,10 +25,14 @@
             "id": "3d6279bfc17565d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Native/無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Native/無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "無題のファイルへのバックリンク"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Native/無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "無題のファイルからのアウトゴーイングリンク"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/Native/無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "無題のファイルのアウトライン"
             }
           },
           {
@@ -202,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f78908a0a58d68",
+  "active": "3d6279bfc17565d2",
   "lastOpenFiles": [
+    "Programming/Native/無題のファイル.md",
+    "Programming/Native",
     "Programming",
     "Tea/セイロン茶.md",
     "Tea/セイロン.md",
