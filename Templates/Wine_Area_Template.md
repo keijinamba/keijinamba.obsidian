@@ -21,7 +21,7 @@ in:
   - "[[MOC/Wine]]"
 ---
 
-# 📍 Bordeaux/France
+# 🗺 Bordeaux/France
 
 ![[Wine_Region_{{country}}_{{region}}.jpg]]
 

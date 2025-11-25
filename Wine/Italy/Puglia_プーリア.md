@@ -33,11 +33,13 @@ in:
 ![[Wine/Assets/Wine_Region_Italy_Puglia.jpg]]
 
 ---
-s
+
 ## 🔗 リンク
 
 - https://www.wine-searcher.com/regions-puglia
 - https://italysegret.com/puglia-wine-guide/
+
+---
 
 ## 🍇 主要ブドウ品種
 
