@@ -25,6 +25,7 @@ related:
   - "[[]]"
 in:
   - "[[MOC/Wine]]"
+  - "[[MOC/Wine Grape]]"
 ---
 
 # 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン

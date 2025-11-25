@@ -27,6 +27,7 @@ related:
   - "[[Wine/Regions/France/Bourgogne]]"
 in:
   - "[[MOC/Wine]]"
+  - "[[MOC/Wine Grape]]"
 ---
 
 # 🍇 Pinot Noir|ピノ・ノワール

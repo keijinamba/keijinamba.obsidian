@@ -20,6 +20,7 @@ related:
   - "[[]]"
 in:
   - "[[MOC/Wine]]"
+  - "[[MOC/Wine Region]]"
 ---
 
 # 📍 Bordeaux/France

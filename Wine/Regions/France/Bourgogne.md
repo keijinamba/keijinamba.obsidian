@@ -24,6 +24,7 @@ related:
   - "[[Wine/Grapes/Pinot Noir]]"
 in:
   - "[[MOC/Wine]]"
+  - "[[MOC/Wine Region]]"
 ---
 
 # 📍 Bourgogne/France

@@ -27,6 +27,7 @@ related:
   - "[[Wine/Italy]]"
 in:
   - "[[MOC/Wine]]"
+  - "[[MOC/Wine Region]]"
 ---
 
 # 📍 Puglia/Italy

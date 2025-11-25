@@ -11,14 +11,10 @@
             "id": "1680c76b7776577f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC/Wine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wine"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Wine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Wineへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Wine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Wineからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Wine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Wineのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -197,11 +190,14 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "MOC/Wine Grape.md",
     "MOC/Wine Region.md",
-    "MOC/Wine copy.md",
-    "Wine/Regions/France/Bourgogne.md",
     "MOC/Wine.md",
     "Wine/Grapes/Pinot Noir.md",
+    "MOC/Wine Grap.md",
+    "MOC/Wine Region copy.md",
+    "MOC/Wine copy.md",
+    "Wine/Regions/France/Bourgogne.md",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.webp",
@@ -237,10 +233,7 @@
     "MOC/Home.md",
     "Templates/Map of Content.md",
     "Templates",
-    "MOCs Overview.md",
-    "Home Pro.md",
     "MOC",
-    "Wine/Tasting/焼けたゴム香.md",
     "Wine/Regions/Italy",
     "Wine/Assets",
     "無題のファイル.canvas",
