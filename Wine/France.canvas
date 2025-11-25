@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"00a432b22953edff","x":-108,"y":-150,"width":250,"height":60,"type":"text","text":"wine"}
+		{"id":"00a432b22953edff","x":-108,"y":-150,"width":250,"height":60,"type":"text","text":"wine"},
+		{"id":"b1a2c3d4e5f67890","x":-108,"y":-50,"width":250,"height":60,"type":"text","text":"Burgundy (Bourgogne)"}
 	],
 	"edges":[]
 }
