@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Grapes/Pinot Noir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bourgogne"
+              "title": "Pinot Noir"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Grapes/Pinot Noir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Bourgogneへのバックリンク"
+              "title": "Pinot Noirへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Grapes/Pinot Noir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Bourgogneからのアウトゴーイングリンク"
+              "title": "Pinot Noirからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Grapes/Pinot Noir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Bourgogneのアウトライン"
+              "title": "Pinot Noirのアウトライン"
             }
           },
           {
@@ -197,10 +197,11 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/Regions/France/Bourgogne.md",
+    "Wine/Grapes/Pinot Noir.md",
     "Wine/Assets/Wine_Bourgogne_Rank.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.webp",
     "Wine/Regions/Italy/Puglia.md",
-    "Wine/Regions/France/Bourgogne.md",
     "Wine/Assets/Wine_Region_France_Bourgogne.jpg",
     "Wine/Assets/Wine_Region_France_ Bourgogne.jpg",
     "AGENTS.md",
@@ -229,7 +230,6 @@
     "Wine/Assets/Wine_Region_Italy.jpg",
     "Wine/Assets/Wine-Regions-of-Italy_AAA_24b0ca8c-546f-42c4-a0d1-3f44e70687e6.jpg",
     "Wine/Assets/Wine_Region_Italyのコピー.jpg",
-    "Wine/Assets/Wine_Region_Italy copy.jpg",
     "Wine/Tasting/アセラシオン.md",
     "Templates/Map of Content copy.md",
     "MOC/Home.md",
