@@ -25,14 +25,14 @@
             "id": "1e891bebc2bd949b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "San Marzano Collezione Cinquanta"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "San Marzano Collezione Cinquantaへのバックリンク"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "San Marzano Collezione Cinquantaからのアウトゴーイングリンク"
             }
           },
           {
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "San Marzano Collezione Cinquantaのアウトライン"
             }
           },
           {
