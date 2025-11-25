@@ -14,8 +14,10 @@ aroma:
 aging-potential: 長期熟成向き
 major-regions:
   - France / Bordeaux
-  - USA / Napa Valley
-  - Chile / Maipo
+  - USA / California
+  - Chile / Central Valley
+  - Australia / Coonawarra
+  - Italy / Tuscany
 tags:
   - Wine
   - Wine/Grape

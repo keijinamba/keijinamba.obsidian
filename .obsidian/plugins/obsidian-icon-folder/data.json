@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
       "LiGrape",
       "LiLink",
       "LiAward",
-      "🇫🇷",
-      "🇮🇹"
+      "🇫🇷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,9 +43,10 @@
   "Biology/Assets": "LiImages",
   "Programming/Assets": "LiImages",
   "Wine/Assets": "LiImages",
-  "Wine/Italy": "🇮🇹",
-  "Wine/France": "🇫🇷",
   "Wine/Tasting": "LiAward",
   "MOC": "LiLink",
-  "Wine/Grapes": "LiGrape"
+  "Wine/Grapes": "LiGrape",
+  "Wine/Regions/France": "🇫🇷",
+  "Wine/Regions/Italy": "🇮🇹",
+  "Wine/Regions": "LiMap"
 }
