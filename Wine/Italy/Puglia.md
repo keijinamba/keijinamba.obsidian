@@ -2,6 +2,7 @@
 type: wine-region
 country: Italy
 region: Puglia
+region-ja: プーリア
 subregion:
   - Salento
   - Valle d'Itria

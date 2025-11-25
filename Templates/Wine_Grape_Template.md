@@ -41,17 +41,11 @@ https://www.enoteca.co.jp/article/archives/3288/
 
 ![[Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg]]
 
-- **フランス / ボルドー**
-  - スタイル：力強くクラシカル、タンニン強め
-  - 代表的なブレンド：メルロ、カベルネ・フラン など
-  - 関連ノート：[[Wine/Region/France/Bordeaux]]
-
-- **アメリカ / ナパ・ヴァレー**
-  - スタイル：熟した果実味、オーク風味
-  - 備考：
-
-- **チリ / マイポ・ヴァレー**
-  - スタイル：コスパ良、カシス＆ハーブ感
+- [[Wine/France/Bordeaux|フランス ボルドー]]
+- [[Wine/USA/California|アメリカ カリフォルニア]]
+- [[Wine/Chile/Central Valley|チリ セントラルヴァレー]]
+- [[Wine/Australia/Coonawarra|オーストラリア クナワラ]]
+- [[Wine/Italy/Tuscany|イタリア トスカーナ]]
 
 ---
 

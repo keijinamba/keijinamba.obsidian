@@ -2,6 +2,7 @@
 type: wine-region
 country: France
 region: Bordeaux
+region-ja: ボルドー
 subregion:
   - Saint-Julien
 red-grapes:
