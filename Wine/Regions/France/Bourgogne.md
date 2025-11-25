@@ -1,7 +1,7 @@
 ---
 type: wine-region
 country: France
-region: Burgundy
+region: Bourgogne
 region-ja: ブルゴーニュ
 subregion:
   - Cote de Nuits
@@ -21,12 +21,12 @@ tags:
   - Wine
   - Wine/Region
 related:
-  - "[[Beaujolais Nouveau（ボジョレー・ヌーボー）]]"
 in:
   - "[[MOC/Wine]]"
 ---
 
-# Burgundy/France
+# 📍 Burgundy/France
+
 
 ---
 
