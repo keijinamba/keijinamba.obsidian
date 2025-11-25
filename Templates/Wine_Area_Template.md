@@ -2,6 +2,7 @@
 type: wine-region
 country: France
 region: Bordeaux
+region-ja: ボルドー
 subregion:
   - Saint-Julien
 red-grapes:
@@ -46,7 +47,8 @@ https://www.enoteca.co.jp/article/archives/20230829140432883/
 
 ## 🍷 テイスティングキーワード
 
-テイスティングキーワード
+テイスティングキーワード（産地全体として）
+
 - [[Wine/Tasting/タンニン]]
 - [[Wine/Tasting/ベリー]]
 - [[Wine/Tasting/スパイス]]
