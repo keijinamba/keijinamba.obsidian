@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"00a432b22953edff","x":-108,"y":-150,"width":250,"height":60,"type":"text","text":"wine"}
+		{"id":"00a432b22953edff","x":-108,"y":-150,"width":250,"height":60,"type":"text","text":"wine"},
+		{"id":"burgundy001","x":-108,"y":-60,"width":250,"height":60,"type":"text","text":"ブルゴーニュ (Bourgogne)"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"edge001","fromNode":"00a432b22953edff","fromSide":"bottom","toNode":"burgundy001","toSide":"top"}
+	]
 }
