@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "dataview",
+  "s3-image-uploader"
 ]

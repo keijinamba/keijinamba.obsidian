@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Wines/Test.md",
+                "file": "Wine/Regions/France/Burgundy（ブルゴーニュ）.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Burgundy（ブルゴーニュ）"
             }
           }
         ],
@@ -200,7 +200,6 @@
   },
   "active": "6d6b5d73d76e7f25",
   "lastOpenFiles": [
-    "IMG_8495.jpeg",
     "/Wine/Regions/France/Burgundy（ブルゴーニュ）.md",
     "Wine/Regions/France/Burgundy（ブルゴーニュ）.md",
     "/Wine/Regions/France",
