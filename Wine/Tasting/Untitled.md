@@ -8,7 +8,7 @@ grape:
   - "[[Primitivo]]"
   - "[[Wine/Grapes/Negroamaro]]"
 price: "3200"
-shop:
+shop: Cuvee Fujiyama 練馬
 rating: 0-5
 tags:
   - Wine
