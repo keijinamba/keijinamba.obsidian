@@ -1,9 +1,9 @@
 ---
 type: wine-note
-name: San Marzano
+name: San Marzano Collezione Cinquanta
 vintage:
 country:
-region:
+region: "[[Puglia]]"
 grape:
   - 
 price:
