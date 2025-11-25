@@ -42,16 +42,6 @@ https://www.enoteca.co.jp/article/archives/20230829140432883/
 - [[Wine/Grapes/Semillon]]
 - [[Wine/Grapes/Muscadelle]]
 
-```dataview
-TABLE red-grapes AS "Red Grapes", white-grapes AS "White Grapes"
-WHERE type = "wine-region" AND file.path = this.file.path
-```
-
-```dataview
-LIST from red-grapes
-WHERE file.path = this.file.path
-```
-
 ---
 
 ## 🍷 テイスティングキーワード
