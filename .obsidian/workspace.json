@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
+                "file": "Templates/Wine_Area_Template.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beaujolais Nouveau（ボジョレー・ヌーボー）"
+              "title": "Wine_Area_Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
+                "file": "Templates/Wine_Area_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Beaujolais Nouveau（ボジョレー・ヌーボー）へのバックリンク"
+              "title": "Wine_Area_Templateへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
+                "file": "Templates/Wine_Area_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Beaujolais Nouveau（ボジョレー・ヌーボー）からのアウトゴーイングリンク"
+              "title": "Wine_Area_Templateからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
+                "file": "Templates/Wine_Area_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Beaujolais Nouveau（ボジョレー・ヌーボー）のアウトライン"
+              "title": "Wine_Area_Templateのアウトライン"
             }
           },
           {
@@ -197,13 +197,13 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
     "Templates/Wine_Grape_Template.md",
     "Templates/Wine_Area_Template copy.md",
     "AGENTS.md",
     "Wine/Italy/Puglia_プーリア.md",
     "Wine/Grapes/Semillon.md",
     "Templates/Wine_Area_Template.md",
-    "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
     "MOC/Wine.md",
     "Wine/Grapes/Primitivo.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
