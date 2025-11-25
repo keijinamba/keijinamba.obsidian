@@ -43,11 +43,11 @@ https://www.enoteca.co.jp/article/archives/3288/
 
 ![[Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg]]
 
-- [[Wine/France/Bordeaux|フランス ボルドー]]
-- [[Wine/USA/California|アメリカ カリフォルニア]]
-- [[Wine/Chile/Central Valley|チリ セントラルヴァレー]]
-- [[Wine/Australia/Coonawarra|オーストラリア クナワラ]]
-- [[Wine/Italy/Tuscany|イタリア トスカーナ]]
+- [[Wine/Regions/France/Bordeaux|フランス ボルドー]]
+- [[Wine/Regions/USA/California|アメリカ カリフォルニア]]
+- [[Wine/Regions/Chile/Central Valley|チリ セントラルヴァレー]]
+- [[Wine/Regions/Australia/Coonawarra|オーストラリア クナワラ]]
+- [[Wine/Regions/Italy/Tuscany|イタリア トスカーナ]]
 
 ---
 
