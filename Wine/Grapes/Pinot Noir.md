@@ -31,6 +31,8 @@ in:
 
 # 🍇 Pinot Noir|ピノ・ノワール
 
+![[Wine/Assets/Wine_Pinot_Noir.jpeg]]
+
 ---
 
 ## 🔗 リンク
