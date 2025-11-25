@@ -7,7 +7,7 @@ region: "[[Puglia]]"
 grape:
   - "[[Primitivo]]"
   - "[[Wine/Grapes/Negroamaro]]"
-price:
+price: "3200"
 shop:
 rating: 0-5
 tags:
