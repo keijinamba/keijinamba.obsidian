@@ -9,7 +9,7 @@ grape:
   - "[[Wine/Grapes/Negroamaro]]"
 price: "3200"
 shop: Cuvee Fujiyama 練馬
-rating: 0-5
+rating: "4.0"
 tags:
   - Wine
 ---
