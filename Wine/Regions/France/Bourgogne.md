@@ -21,6 +21,7 @@ tags:
   - Wine
   - Wine/Region
 related:
+  - "[[Wine/Grapes/Pinot Noir]]"
 in:
   - "[[MOC/Wine]]"
 ---

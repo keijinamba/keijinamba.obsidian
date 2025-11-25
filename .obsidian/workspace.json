@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Grapes/Pinot Noir.md",
+                "file": "MOC/Wine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pinot Noir"
+              "title": "Wine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Grapes/Pinot Noir.md",
+                "file": "MOC/Wine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pinot Noirへのバックリンク"
+              "title": "Wineへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Grapes/Pinot Noir.md",
+                "file": "MOC/Wine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pinot Noirからのアウトゴーイングリンク"
+              "title": "Wineからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Grapes/Pinot Noir.md",
+                "file": "MOC/Wine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pinot Noirのアウトライン"
+              "title": "Wineのアウトライン"
             }
           },
           {
@@ -197,9 +197,12 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
-    "Wine/Assets/Wine_Pinot_Noir.jpeg",
+    "MOC/Wine Region.md",
+    "MOC/Wine copy.md",
     "Wine/Regions/France/Bourgogne.md",
+    "MOC/Wine.md",
     "Wine/Grapes/Pinot Noir.md",
+    "Wine/Assets/Wine_Pinot_Noir.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.webp",
     "Wine/Regions/Italy/Puglia.md",
@@ -219,7 +222,6 @@
     "Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg",
     "Templates/Wine_Area_Template copy.md",
     "Wine/Grapes/Semillon.md",
-    "MOC/Wine.md",
     "Wine/Grapes/Primitivo.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
     "Tasting/タンニン.md",
@@ -230,7 +232,6 @@
     "Wine/Grapes",
     "Wine/Assets/Wine_Region_Italy.jpg",
     "Wine/Assets/Wine-Regions-of-Italy_AAA_24b0ca8c-546f-42c4-a0d1-3f44e70687e6.jpg",
-    "Wine/Assets/Wine_Region_Italyのコピー.jpg",
     "Wine/Tasting/アセラシオン.md",
     "Templates/Map of Content copy.md",
     "MOC/Home.md",
@@ -241,7 +242,6 @@
     "MOC",
     "Wine/Tasting/焼けたゴム香.md",
     "Wine/Regions/Italy",
-    "Wine/Tasting/黒胡椒.md",
     "Wine/Assets",
     "無題のファイル.canvas",
     "Wine/Tasting.canvas"

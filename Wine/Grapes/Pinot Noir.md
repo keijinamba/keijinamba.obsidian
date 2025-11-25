@@ -2,7 +2,7 @@
 type: wine-grape
 grape-en: Pinot Noir
 grape-jp: ピノ・ノワール
-color: red # red / white / rosé
+color: red
 style: ライト〜ミディアムボディ
 acidity: 高い
 tannin: 低〜中
@@ -24,7 +24,7 @@ tags:
   - Wine
   - Wine/Grape
 related:
-  - "[[]]"
+  - "[[Wine/Regions/France/Bourgogne]]"
 in:
   - "[[MOC/Wine]]"
 ---
