@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Wines/Test.md",
+                "file": "Wine/Tasting/Test.md",
                 "mode": "source",
                 "source": true
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Wines/Test.md",
+                "file": "Wine/Tasting/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Wines/Test.md",
+                "file": "Wine/Tasting/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Wines/Test.md",
+                "file": "Wine/Tasting/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,12 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1680c76b7776577f",
+  "active": "c7f78908a0a58d68",
   "lastOpenFiles": [
+    "Templates/Wine_Tasting_Template.md",
     "IMG_8495.jpeg",
     "Wine/Grapes/Cabernet Sauvignon.md",
-    "Wine/Wines/Test.md",
-    "Wine/Wines",
+    "Wine/Tasting/Test.md",
+    "Wine/Tasting",
     "MOC/Wine Grape.md",
     "MOC/Wine Region.md",
     "MOC/Wine.md",
@@ -237,8 +238,7 @@
     "Wine/Grapes/Merlot.md",
     "Wine/Grapes",
     "Wine/Assets/Wine_Region_Italy.jpg",
-    "Wine/Assets/Wine-Regions-of-Italy_AAA_24b0ca8c-546f-42c4-a0d1-3f44e70687e6.jpg",
-    "Wine/Tasting/アセラシオン.md",
+    "Wine/Word/アセラシオン.md",
     "Templates/Map of Content copy.md",
     "Templates",
     "MOC",
