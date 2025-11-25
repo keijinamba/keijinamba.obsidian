@@ -40,15 +40,16 @@ https://www.enoteca.co.jp/article/archives/20230829140432883/
 ## 🍇 主要ブドウ品種
 
 ### 赤
-- [[Wine/Grapes/Pinot Noir]]
+- [[Wine/Grapes/Pinot Noir|ピノ・ノワール]]
+- [[Wine/Grapes/Gamay|ガメイ（ボージョレ）]]
 
 ### 白
-- [[Wine/Grapes/Chardonnay]]
-- [[Wine/Grapes/Aligote]]
+- [[Wine/Grapes/Chardonnay|シャルドネ]]
+- [[Wine/Grapes/Aligote|アリゴテ]]
 
 ---
 
-## テイスティングキーワード
+## 🍷 テイスティングキーワード
 
 テイスティングキーワード（産地全体として）
 
