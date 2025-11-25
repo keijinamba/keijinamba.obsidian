@@ -1,23 +1,25 @@
 ---
 type: wine-grape
-grape-en: Cabernet Sauvignon
-grape-jp: カベルネ・ソーヴィニヨン
+grape-en: Pinot Noir
+grape-jp: ピノ・ノワール
 color: red # red / white / rosé
-style: フルボディ
-acidity: 中〜高
-tannin: 高い
+style: ライト〜ミディアムボディ
+acidity: 高い
+tannin: 低〜中
 aroma:
-  - カシス
-  - 黒系果実
+  - チェリー
+  - イチゴ
+  - ラズベリー
   - スパイス
-  - 草っぽさ
-aging-potential: 長期熟成向き
+  - 土の香り
+aging-potential: 中〜長期熟成向き
 major-regions:
-  - France / Bordeaux
+  - France / Bourgogne
   - USA / California
-  - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+  - USA / Oregon
+  - Germany
+  - New Zealand
+  - Australia
 tags:
   - Wine
   - Wine/Grape
@@ -27,27 +29,22 @@ in:
   - "[[MOC/Wine]]"
 ---
 
-# 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
-
-![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
+# 🍇 Pinot Noir|ピノ・ノワール
 
 ---
 
 ## 🔗 リンク
 
-https://www.enoteca.co.jp/article/archives/3288/
-
 ---
 
 ## 🌍 主な産地とスタイル
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg]]
-
-- [[Wine/Regions/France/Bordeaux|フランス ボルドー]]
+- [[Wine/Regions/France/Bourgogne|フランス ブルゴーニュ]]
 - [[Wine/Regions/USA/California|アメリカ カリフォルニア]]
-- [[Wine/Regions/Chile/Central Valley|チリ セントラルヴァレー]]
-- [[Wine/Regions/Australia/Coonawarra|オーストラリア クナワラ]]
-- [[Wine/Regions/Italy/Tuscany|イタリア トスカーナ]]
+- [[Wine/Regions/USA/Oregon|アメリカ オレゴン]]
+- ドイツ
+- ニュージーランド
+- オーストラリア
 
 ---
 
@@ -55,19 +52,20 @@ https://www.enoteca.co.jp/article/archives/3288/
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
-- [[Wine/Tasting/カシス]]
+- [[Wine/Tasting/チェリー]]
+- [[Wine/Tasting/イチゴ]]
+- [[Wine/Tasting/ラズベリー]]
 - [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/オーク]]
+- [[Wine/Tasting/土の香り]]
 
 ---
 
 ## 🍽 相性の良い料理
 
-- 赤身肉（ステーキ、ローストビーフ）
-- ラムチョップ
-- ハードタイプのチーズ
-- グリル料理全般
+- 鴨肉
+- 鶏肉
+- サーモン
+- マッシュルーム料理
+- ソフトタイプのチーズ
 
 ---
