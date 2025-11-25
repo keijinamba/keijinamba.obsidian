@@ -5,7 +5,8 @@ vintage: NV
 country: Italy
 region: "[[Puglia]]"
 grape:
-  - 
+  - "[[Primitivo]]"
+  - "[[Wine/Grapes/Negroamaro]]"
 price:
 shop:
 rating: 0-5
