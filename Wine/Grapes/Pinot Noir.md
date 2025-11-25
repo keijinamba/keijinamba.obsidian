@@ -35,6 +35,8 @@ in:
 
 ## 🔗 リンク
 
+https://www.enoteca.co.jp/article/archives/3173/
+
 ---
 
 ## 🌍 主な産地とスタイル
