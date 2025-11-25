@@ -25,7 +25,7 @@ in:
   - "[[MOC/Wine]]"
 ---
 
-# 📍 Burgundy/France
+# 📍 Bourgogne/France
 
 
 ---
