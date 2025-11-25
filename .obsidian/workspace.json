@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Wine_Area_Template.md",
+                "file": "Templates/Wine_Grape_Template.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wine_Area_Template"
+              "title": "Wine_Grape_Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Wine_Area_Template.md",
+                "file": "Templates/Wine_Grape_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Wine_Area_Templateへのバックリンク"
+              "title": "Wine_Grape_Templateへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Wine_Area_Template.md",
+                "file": "Templates/Wine_Grape_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Wine_Area_Templateからのアウトゴーイングリンク"
+              "title": "Wine_Grape_Templateからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Wine_Area_Template.md",
+                "file": "Templates/Wine_Grape_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Wine_Area_Templateのアウトライン"
+              "title": "Wine_Grape_Templateのアウトライン"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
-    "Templates/Wine_Grape_Template.md",
     "Templates/Wine_Area_Template.md",
+    "Templates/Wine_Grape_Template.md",
+    "Wine/Assets/Wine_Cabernet_Sauvignon.jpeg",
+    "Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg",
     "Wine/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
     "Templates/Wine_Area_Template copy.md",
     "AGENTS.md",
@@ -237,13 +239,10 @@
     "Wine/Tasting/バリック.md",
     "IMG_8418.png",
     "バリック.md",
-    "バラック.md",
     "Wine/Tasting",
     "Tea/Assets/IMG_8407.jpg",
     "無題のファイル.canvas",
-    "Programming/Assets/スクリーンショット 2025-11-20 18.04.39.png",
     "Tea/Ceylon（セイロン）",
-    "Biology/Assets/by28oplvvzp51.webp",
     "Wine/Tasting.canvas"
   ]
 }
