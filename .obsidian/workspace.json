@@ -15,7 +15,7 @@
               "state": {
                 "file": "Wine/Wines/Test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Test"
