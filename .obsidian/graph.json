@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Programming  ",
@@ -34,9 +34,30 @@
         "a": 1,
         "rgb": 11261813
       }
+    },
+    {
+      "query": "path:Wine/Grapes  ",
+      "color": {
+        "a": 1,
+        "rgb": 10898943
+      }
+    },
+    {
+      "query": "path:Wine/Regions  ",
+      "color": {
+        "a": 1,
+        "rgb": 6094784
+      }
+    },
+    {
+      "query": "path:Wine/Tasting  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735324
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.12202962239583,
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 0.798624674479167,
   "linkDistance": 196,
-  "scale": 1.4769860980686476,
-  "close": true
+  "scale": 2.084749977351551,
+  "close": false
 }
