@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Regions/Italy/Puglia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bourgogne"
+              "title": "Puglia"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Regions/Italy/Puglia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Bourgogneへのバックリンク"
+              "title": "Pugliaへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Regions/Italy/Puglia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Bourgogneからのアウトゴーイングリンク"
+              "title": "Pugliaからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Regions/France/Bourgogne.md",
+                "file": "Wine/Regions/Italy/Puglia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Bourgogneのアウトライン"
+              "title": "Pugliaのアウトライン"
             }
           },
           {
@@ -197,10 +197,10 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/Regions/France/Bourgogne.md",
+    "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_France_Bourgogne.jpg",
     "Wine/Assets/Wine_Region_France_ Bourgogne.jpg",
-    "Wine/Regions/Italy/Puglia.md",
-    "Wine/Regions/France/Bourgogne.md",
     "AGENTS.md",
     "Wine/Grapes/Cabernet Sauvignon.md",
     "Wine/Regions/Spain",
@@ -242,7 +242,6 @@
     "Wine/Tasting/Untitled.md",
     "Wine/Assets/IMG_8418.png",
     "Wine/Assets",
-    "IMG_8418.png",
     "無題のファイル.canvas",
     "Wine/Tasting.canvas"
   ]

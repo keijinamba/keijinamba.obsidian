@@ -27,14 +27,17 @@ in:
 
 # 📍 Bourgogne/France
 
+![[Wine/Assets/Wine_Region_France_Bourgogne.jpg]]
 
 ---
 
-## リンク
+## 🔗 リンク
 
 https://www.enoteca.co.jp/article/archives/20230829140432883/
 
-## 主要ブドウ品種
+---
+
+## 🍇 主要ブドウ品種
 
 ### 赤
 - [[Wine/Grapes/Pinot Noir]]
