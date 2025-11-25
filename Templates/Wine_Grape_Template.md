@@ -3,10 +3,6 @@ type: wine-grape
 grape-en: Cabernet Sauvignon
 grape-jp: カベルネ・ソーヴィニヨン
 color: red # red / white / rosé
-origin-country:
-  - France
-origin-region:
-  - Bordeaux
 style: フルボディ
 acidity: 中〜高
 tannin: 高い
@@ -24,12 +20,12 @@ tags:
   - Wine
   - Wine/Grape
 related:
-  - "[[Wine/Region/France/Bordeaux]]"
+  - "[[]]"
 in:
-  - "[[MOC/Wine/Grapes]]"
+  - "[[MOC/Wine]]"
 ---
 
-# 🍇 Cabernet Sauvignon / カベルネ・ソーヴィニヨン
+# 🍇 Cabernet Sauvignon | カベルネ・ソーヴィニヨン
 
 ![[Wine_Grape_Cabernet_Sauvignon.jpg]]
 
@@ -37,9 +33,7 @@ in:
 
 ## 🔗 リンク
 
-- Wikipedia（EN）: 
-- Wikipedia（JP）: 
-- 参考記事: 
+https://www.enoteca.co.jp/article/archives/3288/
 
 ---
 
