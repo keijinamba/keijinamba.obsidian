@@ -1,7 +1,11 @@
 # ルール
 
 ## ワインについて
+テンプレートに書かれていること以外は*指定がない限り*は余計に書かず簡潔に要点をまとめる。
 
 ### エリアごとのノート
 ワインに関して、Bordeaux/FranceやPuglia/Italyなどエリアごとのノートがある。
-これは ./Templates/Wine_Area_Template.md
+これは `./Templates/Wine_Area_Template.md` のテンプレートを使用してノートを作成する。
+
+### ブドウ品種のノート
+
