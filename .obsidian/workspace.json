@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Wine Grape.md",
+                "file": "Wine/Word/ピラジン.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wine Grape"
+              "title": "ピラジン"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Wine Grape.md",
+                "file": "Wine/Word/ピラジン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Wine Grapeへのバックリンク"
+              "title": "ピラジンへのバックリンク"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Wine Grape.md",
+                "file": "Wine/Word/ピラジン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Wine Grapeからのアウトゴーイングリンク"
+              "title": "ピラジンからのアウトゴーイングリンク"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Wine Grape.md",
+                "file": "Wine/Word/ピラジン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Wine Grapeのアウトライン"
+              "title": "ピラジンのアウトライン"
             }
           },
           {
@@ -207,7 +207,12 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/Word/バリック.md",
+    "MOC/Wine Word.md",
+    "MOC/Wine.md",
     "MOC/Wine Region.md",
+    "MOC/Wine Grape.md",
+    "MOC/Wine Region copy.md",
     "Wine/Word/ピラジン.md",
     "Templates/Wine_Word_Template.md",
     "Wine/Word/還元的.md",
@@ -220,11 +225,8 @@
     "IMG_8495.jpeg",
     "Wine/Grapes/Cabernet Sauvignon.md",
     "Wine/Tasting",
-    "MOC/Wine Grape.md",
-    "MOC/Wine.md",
     "Wine/Grapes/Pinot Noir.md",
     "MOC/Wine Grap.md",
-    "MOC/Wine Region copy.md",
     "MOC/Wine copy.md",
     "Wine/Regions/France/Bourgogne.md",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
@@ -244,8 +246,6 @@
     "Templates/Wine_Area_Template.md",
     "Wine/Assets/Wine_Cabernet_Sauvignon.jpeg",
     "Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg",
-    "Templates/Wine_Area_Template copy.md",
-    "Wine/Grapes/Semillon.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
     "Tasting",
     "Wine/Grapes",

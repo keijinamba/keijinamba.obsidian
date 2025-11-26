@@ -1,8 +1,9 @@
 ---
-up: 
+up: "[[MOC/Wine]]"
 related: 
 created: "{{date}}"
 in:
+  - "[[MOC/Wine]]"
 ---
 
 ```dataview
@@ -10,7 +11,7 @@ TABLE
   file.folder as "Parent Folder",
   length(file.outlinks) as "Links"
 WHERE
-	contains(up, this.file.link) and
+	contains(in,this.file.link) and
 	!contains(file.name, "Template")
 SORT file.mtime desc
 ```

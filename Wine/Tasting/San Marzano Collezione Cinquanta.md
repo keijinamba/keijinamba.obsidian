@@ -17,6 +17,9 @@ review: |-
 tags:
   - Wine
 ---
+
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/10bfe7bd10415830bad45472e001be8e.jpeg)
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/45aa7da5f731d7e099653c9f27f30df2.jpeg)
+
+---
