@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/マセラシオン.md",
+                "file": "Wine/Word/還元的.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "マセラシオン"
+              "title": "還元的"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/マセラシオン.md",
+                "file": "Wine/Word/還元的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "マセラシオンへのバックリンク"
+              "title": "還元的へのバックリンク"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/マセラシオン.md",
+                "file": "Wine/Word/還元的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "マセラシオンからのアウトゴーイングリンク"
+              "title": "還元的からのアウトゴーイングリンク"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/マセラシオン.md",
+                "file": "Wine/Word/還元的.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "マセラシオンのアウトライン"
+              "title": "還元的のアウトライン"
             }
           },
           {
@@ -208,13 +208,13 @@
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
     "Wine/Word/ヴィレゾン.md",
-    "Wine/Word/マセラシオン.md",
     "Wine/Word/バリック.md",
+    "Wine/Word/マセラシオン.md",
+    "Wine/Word/ピラジン.md",
     "Wine/Word/還元的.md",
     "Wine/Word/黒胡椒.md",
     "Wine/Word/焼けたゴム香.md",
     "Wine/Word/樽香.md",
-    "Wine/Word/ピラジン.md",
     "MOC/Wine Word.md",
     "MOC/Wine.md",
     "MOC/Wine Region.md",
