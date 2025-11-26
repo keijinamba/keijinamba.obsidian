@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/ピラジン.md",
+                "file": "Wine/Word/アセラシオン.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ピラジン"
+              "title": "アセラシオン"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/ピラジン.md",
+                "file": "Wine/Word/アセラシオン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ピラジンへのバックリンク"
+              "title": "アセラシオンへのバックリンク"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/ピラジン.md",
+                "file": "Wine/Word/アセラシオン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ピラジンからのアウトゴーイングリンク"
+              "title": "アセラシオンからのアウトゴーイングリンク"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/ピラジン.md",
+                "file": "Wine/Word/アセラシオン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ピラジンのアウトライン"
+              "title": "アセラシオンのアウトライン"
             }
           },
           {
@@ -207,13 +207,14 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
-    "Wine/Word/焼けたゴム香.md",
-    "Wine/Word/黒胡椒.md",
-    "Wine/Word/還元的.md",
     "Wine/Word/ヴィレゾン.md",
+    "Wine/Word/アセラシオン.md",
     "Wine/Word/バリック.md",
-    "Wine/Word/ピラジン.md",
+    "Wine/Word/還元的.md",
+    "Wine/Word/黒胡椒.md",
+    "Wine/Word/焼けたゴム香.md",
     "Wine/Word/樽香.md",
+    "Wine/Word/ピラジン.md",
     "MOC/Wine Word.md",
     "MOC/Wine.md",
     "MOC/Wine Region.md",
@@ -242,7 +243,6 @@
     "Wine/Regions/Spain",
     "Wine/Regions/Chile",
     "Wine/Regions/USA",
-    "Wine/Regions/France/Beaujolais Nouveau（ボジョレー・ヌーボー）.md",
     "Wine/Regions",
     "Wine/Assets/Wine_Cabernet_Sauvignon.jpeg",
     "Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg",
