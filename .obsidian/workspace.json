@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/還元的.md",
-                "mode": "preview",
+                "file": "Wine/Word/ワイン工程.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "還元的"
+              "title": "ワイン工程"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/還元的.md",
+                "file": "Wine/Word/ワイン工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "還元的へのバックリンク"
+              "title": "ワイン工程へのバックリンク"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/還元的.md",
+                "file": "Wine/Word/ワイン工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "還元的からのアウトゴーイングリンク"
+              "title": "ワイン工程からのアウトゴーイングリンク"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/還元的.md",
+                "file": "Wine/Word/ワイン工程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "還元的のアウトライン"
+              "title": "ワイン工程のアウトライン"
             }
           },
           {
@@ -221,9 +221,10 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/Word/還元的.md",
+    "Wine/Word/ワイン工程.md",
     "Wine/Word/焼けたゴム香.md",
     "Wine/Word/黒胡椒.md",
-    "Wine/Word/還元的.md",
     "Wine/Word/マセラシオン.md",
     "Wine/Word/ヴィレゾン.md",
     "Wine/Word/バリック.md",
@@ -253,7 +254,6 @@
     "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_France_Bourgogne.jpg",
     "Wine/Assets/Wine_Region_France_ Bourgogne.jpg",
-    "AGENTS.md",
     "Wine/Regions/Spain",
     "Wine/Regions/Chile",
     "Wine/Regions/USA",
