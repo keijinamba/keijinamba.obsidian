@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Wine/Word/還元的.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "還元的"
@@ -29,6 +29,20 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "b174632d5dbdd10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wine/Word/マセラシオン.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "マセラシオン"
             }
           }
         ]
@@ -207,13 +221,13 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
+    "Wine/Word/焼けたゴム香.md",
+    "Wine/Word/黒胡椒.md",
+    "Wine/Word/還元的.md",
+    "Wine/Word/マセラシオン.md",
     "Wine/Word/ヴィレゾン.md",
     "Wine/Word/バリック.md",
-    "Wine/Word/マセラシオン.md",
     "Wine/Word/ピラジン.md",
-    "Wine/Word/還元的.md",
-    "Wine/Word/黒胡椒.md",
-    "Wine/Word/焼けたゴム香.md",
     "Wine/Word/樽香.md",
     "MOC/Wine Word.md",
     "MOC/Wine.md",
