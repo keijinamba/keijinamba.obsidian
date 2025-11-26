@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/ワイン工程.md",
+                "file": "Wine/Grapes/Cabernet Franc.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ワイン工程"
+              "title": "Cabernet Franc"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/ワイン工程.md",
+                "file": "Wine/Grapes/Cabernet Franc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ワイン工程へのバックリンク"
+              "title": "Cabernet Francへのバックリンク"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/ワイン工程.md",
+                "file": "Wine/Grapes/Cabernet Franc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ワイン工程からのアウトゴーイングリンク"
+              "title": "Cabernet Francからのアウトゴーイングリンク"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/ワイン工程.md",
+                "file": "Wine/Grapes/Cabernet Franc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ワイン工程のアウトライン"
+              "title": "Cabernet Francのアウトライン"
             }
           },
           {
@@ -221,8 +221,10 @@
   },
   "active": "1680c76b7776577f",
   "lastOpenFiles": [
-    "Wine/Word/ヴィレゾン.md",
+    "Wine/Grapes/Cabernet Sauvignon.md",
+    "Wine/Grapes/Cabernet Franc.md",
     "Wine/Word/ワイン工程.md",
+    "Wine/Word/ヴィレゾン.md",
     "Wine/Word/還元的.md",
     "Wine/Word/焼けたゴム香.md",
     "Wine/Word/黒胡椒.md",
@@ -242,7 +244,6 @@
     "Wine/Tasting/Untitled.md",
     "Templates/Wine_Tasting_Template.md",
     "IMG_8495.jpeg",
-    "Wine/Grapes/Cabernet Sauvignon.md",
     "Wine/Tasting",
     "Wine/Grapes/Pinot Noir.md",
     "MOC/Wine Grap.md",
@@ -251,7 +252,6 @@
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.jpeg",
     "Wine/Assets/Wine_Bourgogne_Rank.webp",
-    "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_France_Bourgogne.jpg",
     "Wine/Assets/Wine_Region_France_ Bourgogne.jpg",
     "Wine/Regions/Spain",
