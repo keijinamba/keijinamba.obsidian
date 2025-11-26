@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
-                "mode": "preview",
+                "file": "Wine/Word/樽香.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "San Marzano Collezione Cinquanta"
+              "title": "樽香"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "グラフビュー"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wine/Word/樽香.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "樽香へのバックリンク"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wine/Word/樽香.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "樽香からのアウトゴーイングリンク"
             }
           },
           {
@@ -165,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Wine/Word/樽香.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "樽香のアウトライン"
             }
           },
           {
@@ -203,9 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e891bebc2bd949b",
+  "active": "1680c76b7776577f",
   "lastOpenFiles": [
     "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+    "Wine/Word/樽香.md",
     "Wine/Tasting/Test.md",
     "conflict-files-obsidian-git.md",
     "Wine/Tasting/Untitled.md",
@@ -245,7 +248,6 @@
     "Tasting/タンニン.md",
     "Tasting",
     "Templates/Wine.md",
-    "Maps.md",
     "Wine/Grapes",
     "Wine/Assets/Wine_Region_Italy.jpg",
     "Templates",
