@@ -10,6 +10,8 @@ in:
   - "[[MOC/Wine Word]]"
 ---
 
-Text
+# Vieille Vigne（ヴィエイユ・ヴィーニュ）
+
+https://www.enoteca.co.jp/archives/detail/VL
 
 ---
