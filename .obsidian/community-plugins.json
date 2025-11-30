@@ -1,7 +1,5 @@
 [
   "obsidian-git",
   "obsidian-icon-folder",
-  "dataview",
-  "s3-image-uploader",
-  "obsidian-map-view"
+  "s3-image-uploader"
 ]
