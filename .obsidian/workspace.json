@@ -25,14 +25,29 @@
             "id": "6e1d05079c26d200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Templates/Wine_Shop_Template.md",
-                "mode": "source",
-                "source": true
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off",
+                "editMode": false
               },
-              "icon": "lucide-file",
-              "title": "Wine_Shop_Template"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           },
           {
@@ -143,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Wine_Shop_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Wine_Shop_Templateへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -162,12 +176,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Wine_Shop_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Wine_Shop_Templateからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -205,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Wine_Shop_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Wine_Shop_Templateのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -247,10 +259,10 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "MOC/Wine Shop.md",
     "Templates/Wine_Shop_Template.md",
-    "MOC/Wine Word.md",
     "Templates/Wine_Word_Template.md",
+    "MOC/Wine Shop.md",
+    "MOC/Wine Word.md",
     "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
     "Wine/Shops",
     "Templates/Wine_Tasting_Template.md",

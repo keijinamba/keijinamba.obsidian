@@ -9,7 +9,9 @@ related:
 in:
   - "[[MOC/Wine]]"
   - "[[MOC/Wine Shop]]"
-locations: []
+location: 35.66212175816555, 139.74191881593472
 ---
+
+
 
 ---
