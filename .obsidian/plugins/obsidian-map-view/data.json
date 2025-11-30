@@ -109,8 +109,8 @@
     }
   ],
   "mapControlsSections": {
-    "filtersDisplayed": true,
-    "viewDisplayed": true,
+    "filtersDisplayed": false,
+    "viewDisplayed": false,
     "linksDisplayed": false,
     "presetsDisplayed": false,
     "editDisplayed": false
@@ -118,11 +118,11 @@
   "mapControlsMinimized": false,
   "maxClusterRadiusPixels": 25,
   "searchProvider": "google",
-  "osmUser": "AIzaSyAukI06Eu2-hF8grsVY4r3CpItNmEN3gKk",
+  "osmUser": "keiji.namba@post-urban.co",
   "searchDelayMs": 250,
   "geocodingApiKey": "AIzaSyAukI06Eu2-hF8grsVY4r3CpItNmEN3gKk",
   "useGooglePlacesNew2025": true,
-  "googlePlacesDataFields": "",
+  "googlePlacesDataFields": "place_id,name,formatted_address",
   "mapSources": [
     {
       "name": "CartoDB",

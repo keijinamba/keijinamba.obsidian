@@ -29,7 +29,7 @@
               "state": {
                 "file": "Templates/Wine_Shop_Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Wine_Shop_Template"
@@ -57,6 +57,16 @@
               },
               "icon": "lucide-file",
               "title": "マセラシオン"
+            }
+          },
+          {
+            "id": "60464af85133f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ],
@@ -237,8 +247,8 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "Templates/Wine_Shop_Template.md",
     "MOC/Wine Shop.md",
+    "Templates/Wine_Shop_Template.md",
     "MOC/Wine Word.md",
     "Templates/Wine_Word_Template.md",
     "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
