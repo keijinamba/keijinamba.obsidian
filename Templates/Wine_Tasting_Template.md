@@ -9,14 +9,12 @@ grape:
 price: 
 shop: 
 rating: 0-5
+review: |-
+  review here
 tags:
   - Wine
 ---
 
----
-
-## ⭐ レビュー
-
-
+image
 
 ---

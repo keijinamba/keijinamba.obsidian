@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "San Marzano Collezione Cinquanta"
+              "title": "Pieropan Amarone della Valpolicella"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "San Marzano Collezione Cinquantaへのバックリンク"
+              "title": "Pieropan Amarone della Valpolicellaへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "San Marzano Collezione Cinquantaからのアウトゴーイングリンク"
+              "title": "Pieropan Amarone della Valpolicellaからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "San Marzano Collezione Cinquantaのアウトライン"
+              "title": "Pieropan Amarone della Valpolicellaのアウトライン"
             }
           },
           {
@@ -236,6 +236,8 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
+    "Templates/Wine_Tasting_Template.md",
+    "Templates/Wine_Word_Template.md",
     "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
     "Wine/Tasting/San Marzano Collezione Cinquanta.md",
     "Wine/Grapes/Corvina.md",
@@ -248,7 +250,6 @@
     "Wine/Word/リパッソ.md",
     "Wine/Word/酒精強化ワイン.md",
     "Wine/Word/レゼルバ.md",
-    "Templates/Wine_Word_Template.md",
     "Wine/Word/クリアンサ.md",
     "Wine/Word/ヴィレゾン.md",
     "Wine/Word/グランレゼルバ.md",
@@ -263,7 +264,6 @@
     "Wine/Word/還元的.md",
     "Wine/Word/焼けたゴム香.md",
     "Wine/Word/黒胡椒.md",
-    "Wine/Word/マセラシオン.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
