@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/レゼルバ.md",
+                "file": "Wine/Word/酒精強化ワイン.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "レゼルバ"
+              "title": "酒精強化ワイン"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/レゼルバ.md",
+                "file": "Wine/Word/酒精強化ワイン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "レゼルバへのバックリンク"
+              "title": "酒精強化ワインへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/レゼルバ.md",
+                "file": "Wine/Word/酒精強化ワイン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "レゼルバからのアウトゴーイングリンク"
+              "title": "酒精強化ワインからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/レゼルバ.md",
+                "file": "Wine/Word/酒精強化ワイン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "レゼルバのアウトライン"
+              "title": "酒精強化ワインのアウトライン"
             }
           },
           {
@@ -236,10 +236,12 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
+    "Wine/Word/レゼルバ.md",
+    "Wine/Word/酒精強化ワイン.md",
+    "Templates/Wine_Word_Template.md",
     "Wine/Word/クリアンサ.md",
     "Wine/Word/ヴィレゾン.md",
     "Wine/Word/グランレゼルバ.md",
-    "Wine/Word/レゼルバ.md",
     "Wine/Word/バックビンテージ.md",
     "Wine/Word/アペラシオン.md",
     "Wine/Grapes/Cabernet Franc.md",
@@ -260,8 +262,6 @@
     "MOC/Wine.md",
     "MOC/Wine Region.md",
     "MOC/Wine Grape.md",
-    "MOC/Wine Region copy.md",
-    "Templates/Wine_Word_Template.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
