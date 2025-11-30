@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMapPinHouse",
       "LiScrollText",
       "LiReceiptText",
       "LiWholeWord",
-      "LiWine",
-      "🇪🇸"
+      "LiWine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
   "Wine/Regions/Spain": "🇪🇸",
   "Wine/Word": "LiWholeWord",
   "Wine/Tasting": "LiWine",
-  "Templates": "LiScrollText"
+  "Templates": "LiScrollText",
+  "Wine/Shops": "LiMapPinHouse"
 }

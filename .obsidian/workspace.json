@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+                "file": "Templates/Wine_Shop_Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pieropan Amarone della Valpolicella"
+              "title": "Wine_Shop_Template"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+                "file": "Templates/Wine_Shop_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pieropan Amarone della Valpolicellaへのバックリンク"
+              "title": "Wine_Shop_Templateへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+                "file": "Templates/Wine_Shop_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pieropan Amarone della Valpolicellaからのアウトゴーイングリンク"
+              "title": "Wine_Shop_Templateからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+                "file": "Templates/Wine_Shop_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pieropan Amarone della Valpolicellaのアウトライン"
+              "title": "Wine_Shop_Templateのアウトライン"
             }
           },
           {
@@ -236,9 +236,13 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "Templates/Wine_Tasting_Template.md",
+    "MOC/Wine Shop.md",
+    "MOC/Wine Word.md",
+    "Templates/Wine_Shop_Template.md",
     "Templates/Wine_Word_Template.md",
     "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+    "Wine/Shops",
+    "Templates/Wine_Tasting_Template.md",
     "Wine/Tasting/San Marzano Collezione Cinquanta.md",
     "Wine/Grapes/Corvina.md",
     "Wine/Regions/Italy/Veneto.md",
@@ -261,9 +265,6 @@
     "Wine/Word/Vieille Vigne.md",
     "Wine/Word/Vieille Vigne（ヴィエイユ・ヴィーニュ）.md",
     "Wine/Word/ワイン工程.md",
-    "Wine/Word/還元的.md",
-    "Wine/Word/焼けたゴム香.md",
-    "Wine/Word/黒胡椒.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
@@ -281,7 +282,6 @@
     "Wine/Grapes",
     "Templates",
     "MOC",
-    "Wine/Regions/Italy",
     "無題のファイル.canvas",
     "Wine/Tasting.canvas"
   ]
