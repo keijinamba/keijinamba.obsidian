@@ -36,7 +36,7 @@ https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 ## 🍇 主要ブドウ品種
 
 ### 赤
-- [[Wine/Grapes/Cabernet Sauvignon]]
+- [[Wine/Grapes/Corvina|コルヴィーナ]]
 - [[Wine/Grapes/Merlot]]
 
 ### 白  
