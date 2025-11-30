@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Word/酒精強化ワイン.md",
+                "file": "Wine/Regions/Italy/無題のファイル.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "酒精強化ワイン"
+              "title": "無題のファイル"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Word/酒精強化ワイン.md",
+                "file": "Wine/Regions/Italy/無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "酒精強化ワインへのバックリンク"
+              "title": "無題のファイルへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Word/酒精強化ワイン.md",
+                "file": "Wine/Regions/Italy/無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "酒精強化ワインからのアウトゴーイングリンク"
+              "title": "無題のファイルからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Word/酒精強化ワイン.md",
+                "file": "Wine/Regions/Italy/無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "酒精強化ワインのアウトライン"
+              "title": "無題のファイルのアウトライン"
             }
           },
           {
@@ -236,8 +236,10 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "Wine/Word/レゼルバ.md",
+    "Wine/Word/リパッソ.md",
+    "Wine/Regions/Italy/無題のファイル.md",
     "Wine/Word/酒精強化ワイン.md",
+    "Wine/Word/レゼルバ.md",
     "Templates/Wine_Word_Template.md",
     "Wine/Word/クリアンサ.md",
     "Wine/Word/ヴィレゾン.md",
@@ -260,8 +262,6 @@
     "Wine/Word/樽香.md",
     "MOC/Wine Word.md",
     "MOC/Wine.md",
-    "MOC/Wine Region.md",
-    "MOC/Wine Grape.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
