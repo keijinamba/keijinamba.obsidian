@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Grapes/Corvina.md",
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Corvina"
+              "title": "San Marzano Collezione Cinquanta"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Grapes/Corvina.md",
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Corvinaへのバックリンク"
+              "title": "San Marzano Collezione Cinquantaへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Grapes/Corvina.md",
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Corvinaからのアウトゴーイングリンク"
+              "title": "San Marzano Collezione Cinquantaからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Grapes/Corvina.md",
+                "file": "Wine/Tasting/San Marzano Collezione Cinquanta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Corvinaのアウトライン"
+              "title": "San Marzano Collezione Cinquantaのアウトライン"
             }
           },
           {
@@ -236,8 +236,12 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "Wine/Regions/Italy/Veneto.md",
+    "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
+    "Wine/Tasting/San Marzano Collezione Cinquanta.md",
     "Wine/Grapes/Corvina.md",
+    "Wine/Regions/Italy/Veneto.md",
+    "Wine/Word/アマローネ.md",
+    "Wine/Grapes/Cabernet Sauvignon.md",
     "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
     "Wine/Assets/Wine_Region_Italyのコピー.jpg",
@@ -255,15 +259,11 @@
     "Wine/Word/Untitled.md",
     "Wine/Word/Vieille Vigne.md",
     "Wine/Word/Vieille Vigne（ヴィエイユ・ヴィーニュ）.md",
-    "Wine/Grapes/Cabernet Sauvignon.md",
     "Wine/Word/ワイン工程.md",
     "Wine/Word/還元的.md",
     "Wine/Word/焼けたゴム香.md",
     "Wine/Word/黒胡椒.md",
     "Wine/Word/マセラシオン.md",
-    "Wine/Word/バリック.md",
-    "Wine/Word/ピラジン.md",
-    "Wine/Word/樽香.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",

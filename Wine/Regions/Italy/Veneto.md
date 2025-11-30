@@ -17,7 +17,8 @@ tags:
   - Wine
   - Wine/Region
 related:
-  - "[[]]"
+  - "[[アマローネ]]"
+  - "[[Veneto]]"
 in:
   - "[[MOC/Wine]]"
   - "[[MOC/Wine Region]]"
