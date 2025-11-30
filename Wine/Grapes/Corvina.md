@@ -1,23 +1,19 @@
 ---
 type: wine-grape
-grape-en: Cabernet Sauvignon
-grape-jp: カベルネ・ソーヴィニヨン
+grape-en: Corvina
+grape-jp: コルヴィーナ
 color: red # red / white / rosé
-style: フルボディ
+style: 中〜フルボディ
 acidity: 中〜高
-tannin: 高い
+tannin: 中〜高
 aroma:
-  - カシス
-  - 黒系果実
+  - チェリー
+  - ベリー
   - スパイス
-  - 草っぽさ
-aging-potential: 長期熟成向き
+  - ハーブ
+aging-potential: 中〜長期熟成向き
 major-regions:
-  - France / Bordeaux
-  - USA / California
-  - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+  - Italy / Veneto
 tags:
   - Wine
   - Wine/Grape
@@ -28,27 +24,17 @@ in:
   - "[[MOC/Wine Grape]]"
 ---
 
-# 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
-
-![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
+# 🍇 Corvina|コルヴィーナ
 
 ---
 
 ## 🔗 リンク
 
-https://www.enoteca.co.jp/article/archives/3288/
-
 ---
 
 ## 🌍 主な産地とスタイル
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg]]
-
-- [[Wine/Regions/France/Bordeaux|フランス ボルドー]]
-- [[Wine/Regions/USA/California|アメリカ カリフォルニア]]
-- [[Wine/Regions/Chile/Central Valley|チリ セントラルヴァレー]]
-- [[Wine/Regions/Australia/Coonawarra|オーストラリア クナワラ]]
-- [[Wine/Regions/Italy/Tuscany|イタリア トスカーナ]]
+- [[Wine/Regions/Italy/Veneto|イタリア ヴェネト]]
 
 ---
 
@@ -57,18 +43,17 @@ https://www.enoteca.co.jp/article/archives/3288/
 テイスティングキーワード（品種として）
 
 - [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
-- [[Wine/Tasting/カシス]]
+- [[Wine/Tasting/ベリー]]
+- [[Wine/Tasting/チェリー]]
 - [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/オーク]]
 
 ---
 
 ## 🍽 相性の良い料理
 
-- 赤身肉（ステーキ、ローストビーフ）
-- ラムチョップ
-- ハードタイプのチーズ
-- グリル料理全般
+- パスタ料理
+- イタリア料理全般
+- チーズ
+- グリル料理
 
 ---
