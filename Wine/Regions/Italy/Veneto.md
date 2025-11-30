@@ -31,7 +31,7 @@ in:
 
 ## 🔗 リンク
 
-https://www.enoteca.co.jp/article/archives/20230829140432883/
+https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 
 ## 🍇 主要ブドウ品種
 
