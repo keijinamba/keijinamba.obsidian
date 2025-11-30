@@ -7,7 +7,7 @@ region: "[[Veneto]]"
 grape:
   - "[[Corvina]]"
 price: 11550
-shop: 麻布台 インタートワイン ケーエム
+shop: "[[麻布台ヒルズ インタートワイン ケーエム]]"
 rating: 4.5
 review: |-
   2025.11.10

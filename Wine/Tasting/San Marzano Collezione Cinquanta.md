@@ -8,7 +8,7 @@ grape:
   - "[[Primitivo]]"
   - "[[Wine/Grapes/Negroamaro]]"
 price: 3200円
-shop: Cuvee Fujiyama 練馬
+shop: "[[Cuvee Fujiyama 練馬]]"
 rating: "4.0"
 review: |-
   プリミティーボの甘やかさと果実味は確かにありつつ、そこからさらにエレガント系に寄せた感じがする

@@ -25,29 +25,14 @@
             "id": "6e1d05079c26d200",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 1,
-                "mapCenter": {
-                  "lat": 40.44694705960048,
-                  "lng": -180.70312500000003
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
+                "file": "Templates/Wine_Shop_Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Wine_Shop_Template"
             }
           },
           {
@@ -72,16 +57,6 @@
               },
               "icon": "lucide-file",
               "title": "マセラシオン"
-            }
-          },
-          {
-            "id": "60464af85133f8e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
             }
           }
         ],
@@ -158,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Wine_Shop_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "Wine_Shop_Templateへのバックリンク"
             }
           },
           {
@@ -176,11 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Wine_Shop_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "Wine_Shop_Templateからのアウトゴーイングリンク"
             }
           },
           {
@@ -218,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Wine_Shop_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "Wine_Shop_Templateのアウトライン"
             }
           },
           {
@@ -259,14 +237,19 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
-    "Templates/Wine_Shop_Template.md",
-    "Templates/Wine_Word_Template.md",
     "MOC/Wine Shop.md",
-    "MOC/Wine Word.md",
+    "Wine/Shops/麻布台ヒルズ インタートワイン ケーエム.md",
+    "Wine/Shops/ラ・ヴィネ.md",
+    "Wine/Shops/WINE MARKET PARTY.md",
+    "Wine/Shops/Cuvee Fujiyama 練馬.md",
     "Wine/Tasting/Pieropan Amarone della Valpolicella.md",
-    "Wine/Shops",
-    "Templates/Wine_Tasting_Template.md",
     "Wine/Tasting/San Marzano Collezione Cinquanta.md",
+    "Templates/Wine_Shop_Template.md",
+    "Location added on 2025-11-30T14-28.md",
+    "Templates/Wine_Word_Template.md",
+    "Templates/Wine_Tasting_Template.md",
+    "MOC/Wine Word.md",
+    "Wine/Shops",
     "Wine/Grapes/Corvina.md",
     "Wine/Regions/Italy/Veneto.md",
     "Wine/Word/アマローネ.md",
@@ -283,11 +266,6 @@
     "Wine/Word/バックビンテージ.md",
     "Wine/Word/アペラシオン.md",
     "Wine/Grapes/Cabernet Franc.md",
-    "Wine/Word/あぺらしお.md",
-    "Wine/Word/Untitled.md",
-    "Wine/Word/Vieille Vigne.md",
-    "Wine/Word/Vieille Vigne（ヴィエイユ・ヴィーニュ）.md",
-    "Wine/Word/ワイン工程.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
