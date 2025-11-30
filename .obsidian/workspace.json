@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Regions/Italy/Puglia.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Puglia"
+              "title": "Veneto"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Regions/Italy/Puglia.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pugliaへのバックリンク"
+              "title": "Venetoへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Regions/Italy/Puglia.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pugliaからのアウトゴーイングリンク"
+              "title": "Venetoからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Regions/Italy/Puglia.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pugliaのアウトライン"
+              "title": "Venetoのアウトライン"
             }
           },
           {
@@ -236,6 +236,7 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
+    "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
     "Wine/Regions/Italy/Veneto.md",
     "Wine/Assets/Wine_Region_Italyのコピー.jpg",
