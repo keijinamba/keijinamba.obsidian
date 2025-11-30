@@ -32,6 +32,8 @@ in:
 
 # 📍 Puglia/Italy
 
+
+
 ![[Wine/Assets/Wine_Region_Italy_Puglia.jpg]]
 
 ---

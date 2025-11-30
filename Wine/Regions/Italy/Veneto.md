@@ -23,9 +23,9 @@ in:
   - "[[MOC/Wine Region]]"
 ---
 
-# 📍 Veneto/Italy![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/70432a45ef6eb39b232fa72f36ad3c9e.jpg)
+# 📍 Veneto/Italy
 
-![[Wine_Region_{{country}}_{{region}}.jpg]]
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a618871000c74a0e2ba411267bf28b12.jpg)
 
 ---
 
