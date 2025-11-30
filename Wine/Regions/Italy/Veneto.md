@@ -37,12 +37,9 @@ https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 
 ### 赤
 - [[Wine/Grapes/Corvina|コルヴィーナ]]
-- [[Wine/Grapes/Merlot]]
 
 ### 白  
 - [[Wine/Grapes/Sauvignon Blanc]]
-- [[Wine/Grapes/Semillon]]
-- [[Wine/Grapes/Muscadelle]]
 
 ---
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Regions/Italy/Veneto.md",
+                "file": "Wine/Grapes/Corvina.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Veneto"
+              "title": "Corvina"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Regions/Italy/Veneto.md",
+                "file": "Wine/Grapes/Corvina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Venetoへのバックリンク"
+              "title": "Corvinaへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Regions/Italy/Veneto.md",
+                "file": "Wine/Grapes/Corvina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Venetoからのアウトゴーイングリンク"
+              "title": "Corvinaからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Regions/Italy/Veneto.md",
+                "file": "Wine/Grapes/Corvina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Venetoのアウトライン"
+              "title": "Corvinaのアウトライン"
             }
           },
           {
@@ -236,9 +236,10 @@
   },
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
+    "Wine/Regions/Italy/Veneto.md",
+    "Wine/Grapes/Corvina.md",
     "Wine/Regions/Italy/Puglia.md",
     "Wine/Assets/Wine_Region_Italy_Puglia.jpg",
-    "Wine/Regions/Italy/Veneto.md",
     "Wine/Assets/Wine_Region_Italyのコピー.jpg",
     "Wine/Word/リパッソ.md",
     "Wine/Word/酒精強化ワイン.md",
@@ -263,7 +264,6 @@
     "Wine/Word/バリック.md",
     "Wine/Word/ピラジン.md",
     "Wine/Word/樽香.md",
-    "MOC/Wine Word.md",
     "IMG_8495.jpeg",
     "Wine/Tasting",
     "Wine/Assets/Wine_Pinot_Noir.jpeg",
