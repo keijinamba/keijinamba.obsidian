@@ -11,6 +11,6 @@ in:
   - "[[MOC/Wine Shop]]"
 ---
 
-Text
+
 
 ---
