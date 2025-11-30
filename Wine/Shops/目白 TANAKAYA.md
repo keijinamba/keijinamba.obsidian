@@ -12,7 +12,7 @@ in:
   - "[[MOC/Wine]]"
   - "[[MOC/Wine Shop]]"
 ---
-# TANAKAYA
+# 目白 TANAKAYA
 
 https://maps.app.goo.gl/mZJ8mEFjqPe32gJ89?g_st=ipc
 
