@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wine/Regions/Italy/無題のファイル.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "Veneto"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wine/Regions/Italy/無題のファイル.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイルへのバックリンク"
+              "title": "Venetoへのバックリンク"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wine/Regions/Italy/無題のファイル.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "無題のファイルからのアウトゴーイングリンク"
+              "title": "Venetoからのアウトゴーイングリンク"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wine/Regions/Italy/無題のファイル.md",
+                "file": "Wine/Regions/Italy/Veneto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "Venetoのアウトライン"
             }
           },
           {
@@ -237,7 +237,7 @@
   "active": "6e1d05079c26d200",
   "lastOpenFiles": [
     "Wine/Word/リパッソ.md",
-    "Wine/Regions/Italy/無題のファイル.md",
+    "Wine/Regions/Italy/Veneto.md",
     "Wine/Word/酒精強化ワイン.md",
     "Wine/Word/レゼルバ.md",
     "Templates/Wine_Word_Template.md",
