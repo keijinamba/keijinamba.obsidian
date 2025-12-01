@@ -5,8 +5,9 @@ name-ja: ## サン・マルツァーノ
 country: Italy
 region: "[[Puglia]]"
 sub-region: # Margaux
-links: # home page / Enoteca / etc
-location: # lat, lng
+links:
+  - https://www.mottox.co.jp/producer/winery/001479
+location: "40.46079211490044, 17.49655277453481"
 tags:
   - Wine
   - Wine/Maker
