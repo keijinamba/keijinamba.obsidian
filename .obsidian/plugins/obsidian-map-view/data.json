@@ -38,29 +38,28 @@
       "badgeOptions": {}
     },
     {
-      "query": "tag:#trip",
+      "query": "[type:wine-maker]",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
-        "icon": "fa-hiking",
-        "markerColor": "green"
-      }
+        "icon": "fa-chess-rook",
+        "markerColor": "#e11d48",
+        "shape": "simple-circle"
+      },
+      "badgeOptions": {},
+      "pathOptions": {}
     },
     {
-      "query": "tag:#trip-water",
+      "query": "[type:wine-shop]",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
-        "markerColor": "blue"
-      }
-    },
-    {
-      "query": "tag:#dogs",
-      "preset": false,
-      "iconDetails": {
-        "prefix": "fas",
-        "icon": "fa-paw"
-      }
+        "markerColor": "#059669",
+        "icon": "fa-shopping-cart",
+        "shape": "simple-circle"
+      },
+      "badgeOptions": {},
+      "pathOptions": {}
     }
   ],
   "zoomOnGoFromNote": 15,
@@ -110,14 +109,14 @@
   ],
   "mapControlsSections": {
     "filtersDisplayed": false,
-    "viewDisplayed": true,
+    "viewDisplayed": false,
     "linksDisplayed": false,
     "presetsDisplayed": false,
-    "editDisplayed": false
+    "editDisplayed": true
   },
   "mapControlsMinimized": false,
   "maxClusterRadiusPixels": 25,
-  "searchProvider": "google",
+  "searchProvider": "osm",
   "osmUser": "keiji.namba@post-urban.co",
   "searchDelayMs": 250,
   "geocodingApiKey": "AIzaSyAukI06Eu2-hF8grsVY4r3CpItNmEN3gKk",
