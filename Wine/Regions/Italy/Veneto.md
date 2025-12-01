@@ -57,10 +57,10 @@ https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 
 ## 🏰 代表的なワイナリー
 
-- [[Wine/France/Chateau Lafite Rothschild]]
-- [[Wine/France/Chateau Latour]]
-- [[Wine/France/Chateau Margaux]]
-- [[Wine/France/Chateau Haut-Brion]]
-- [[Wine/France/Chateau Mouton Rothschild]]
+- [[Wine/Italy/Pieropan]]
+- [[Wine/Italy/Allegrini]]
+- [[Wine/Italy/Masi]]
+- [[Wine/Italy/Tommasi]]
+- [[Wine/Italy/Bertani]]
 
 ---
