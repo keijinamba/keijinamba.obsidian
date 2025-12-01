@@ -57,10 +57,10 @@ https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 
 ## 🏰 代表的なワイナリー
 
-- [[Wine/Italy/Pieropan]]
-- [[Wine/Italy/Allegrini]]
-- [[Wine/Italy/Masi]]
-- [[Wine/Italy/Tommasi]]
-- [[Wine/Italy/Bertani]]
+- [[Wine/Makers/Italy/Pieropan]]
+- [[Wine/Makers/Italy/Allegrini]]
+- [[Wine/Makers/Italy/Masi]]
+- [[Wine/Makers/Italy/Tommasi]]
+- [[Wine/Makers/Italy/Bertani]]
 
 ---
