@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🇨🇱",
+      "🇪🇸",
+      "🇺🇸",
       "🇫🇷",
-      "🇮🇹",
-      "LiCastle",
-      "LiMapPinHouse",
-      "LiScrollText"
+      "🇮🇹"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,8 @@
   "Wine/Shops": "LiMapPinHouse",
   "Wine/Makers": "LiCastle",
   "Wine/Makers/Italy": "🇮🇹",
-  "Wine/Makers/France": "🇫🇷"
+  "Wine/Makers/France": "🇫🇷",
+  "Wine/Makers/USA": "🇺🇸",
+  "Wine/Makers/Spain": "🇪🇸",
+  "Wine/Makers/Chile": "🇨🇱"
 }

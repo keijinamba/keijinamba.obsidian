@@ -16,7 +16,7 @@ in:
   - "[[MOC/Wine Maker]]"
 ---
 
-# Tommasi|トンマージ
+# Tommasi トンマージ
 
 ---
 

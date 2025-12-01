@@ -16,7 +16,7 @@ in:
   - "[[MOC/Wine Maker]]"
 ---
 
-# Bertani|ベルターニ
+# Bertani ベルターニ
 
 ---
 

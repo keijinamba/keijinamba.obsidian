@@ -16,7 +16,7 @@ in:
   - "[[MOC/Wine Maker]]"
 ---
 
-# Allegrini|アッレグリーニ
+# Allegrini アッレグリーニ
 
 ---
 

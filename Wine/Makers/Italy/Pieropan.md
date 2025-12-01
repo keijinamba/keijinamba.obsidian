@@ -16,7 +16,7 @@ in:
   - "[[MOC/Wine Maker]]"
 ---
 
-# Pieropan|ピエロパン
+# Pieropan ピエロパン
 
 ---
 

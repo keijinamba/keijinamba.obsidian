@@ -16,7 +16,7 @@ in:
   - "[[MOC/Wine Maker]]"
 ---
 
-# Masi|マージ
+# Masi マージ
 
 ---
 
