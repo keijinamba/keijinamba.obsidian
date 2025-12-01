@@ -1,6 +1,7 @@
 ---
 type: wine-note
 name: 
+maker: 
 vintage: 
 country: 
 region: 

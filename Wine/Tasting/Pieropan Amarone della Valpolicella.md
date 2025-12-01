@@ -1,6 +1,7 @@
 ---
 type: wine-note
 name: Pieropan Amarone della Valpolicella
+maker: "[[Pieropan]]"
 vintage: 2017
 country: Italy
 region: "[[Veneto]]"
