@@ -5,7 +5,7 @@ name-ja: # シャトー・マルゴー
 country: # France 
 region: # "[[Wine/Regions/France/Bordeaux]]"
 sub-region: # Margaux
-links: # home page
+links: # home page / Enoteca / etc
 tags:
   - Wine
   - Wine/Maker
