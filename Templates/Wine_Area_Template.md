@@ -3,7 +3,7 @@ type: wine-region
 country: France
 region: Bordeaux
 region-ja: ボルドー
-subregion:
+sub-region:
   - Saint-Julien
 red-grapes:
   - Cabernet Sauvignon

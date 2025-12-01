@@ -3,7 +3,7 @@ type: wine-region
 country: Italy
 region: Puglia
 region-ja: プーリア
-subregion:
+sub-region:
   - Salento
   - Valle d'Itria
   - Daunia

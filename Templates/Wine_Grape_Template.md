@@ -1,7 +1,7 @@
 ---
 type: wine-grape
 grape-en: Cabernet Sauvignon
-grape-jp: カベルネ・ソーヴィニヨン
+grape-ja: カベルネ・ソーヴィニヨン
 color: red # red / white / rosé
 style: フルボディ
 acidity: 中〜高

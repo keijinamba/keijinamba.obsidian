@@ -3,7 +3,7 @@ type: wine-region
 country: Italy
 region: Veneto
 region-ja: ヴェネト
-subregion:
+sub-region:
   - ヴェローナ地区
 red-grapes:
   - Cabernet Sauvignon

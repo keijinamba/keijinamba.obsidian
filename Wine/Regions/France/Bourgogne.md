@@ -3,7 +3,7 @@ type: wine-region
 country: France
 region: Bourgogne
 region-ja: ブルゴーニュ
-subregion:
+sub-region:
   - Cote de Nuits
   - Cote de Beaune
   - Chablis
