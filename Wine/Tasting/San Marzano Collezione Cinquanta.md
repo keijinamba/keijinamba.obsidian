@@ -1,6 +1,7 @@
 ---
 type: wine-note
 name: San Marzano Collezione Cinquanta
+maker: "[[San Marzano]]"
 vintage: NV
 country: Italy
 region: "[[Puglia]]"
