@@ -6,6 +6,7 @@ country: # France
 region: # "[[Wine/Regions/France/Bordeaux]]"
 sub-region: # Margaux
 links: # home page / Enoteca / etc
+location: # lat, lng
 tags:
   - Wine
   - Wine/Maker

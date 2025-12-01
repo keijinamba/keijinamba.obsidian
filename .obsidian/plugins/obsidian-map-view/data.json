@@ -110,7 +110,7 @@
   ],
   "mapControlsSections": {
     "filtersDisplayed": false,
-    "viewDisplayed": false,
+    "viewDisplayed": true,
     "linksDisplayed": false,
     "presetsDisplayed": false,
     "editDisplayed": false

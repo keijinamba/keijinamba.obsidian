@@ -7,6 +7,7 @@ region: "[[Wine/Regions/Italy/Veneto]]"
 sub-region: ヴァルポリチェッラ
 links:
   - https://www.winegrocery.com/c/1344/1347/pieropan
+location: "45.4313124, 11.2518856"
 tags:
   - Wine
   - Wine/Maker
