@@ -6,6 +6,7 @@ country: Italy
 region: "[[Wine/Regions/Italy/Veneto]]"
 sub-region: ヴァルポリチェッラ
 links:
+  - https://www.winegrocery.com/c/1344/1347/pieropan
 tags:
   - Wine
   - Wine/Maker
