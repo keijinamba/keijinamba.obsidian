@@ -51,10 +51,10 @@ in:
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/草っぽさ]]
-- [[Wine/Tasting/グレープフルーツ]]
-- [[Wine/Tasting/ライム]]
-- [[Wine/Tasting/ミネラル]]
+- [[Wine/Word/草っぽさ]]
+- [[Wine/Word/グレープフルーツ]]
+- [[Wine/Word/ライム]]
+- [[Wine/Word/ミネラル]]
 
 ---
 

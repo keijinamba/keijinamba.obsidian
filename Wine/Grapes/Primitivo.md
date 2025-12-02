@@ -47,11 +47,11 @@ in:
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/ブラックベリー]]
-- [[Wine/Tasting/プラム]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/チョコレート]]
-- [[Wine/Tasting/タンニン]]
+- [[Wine/Word/ブラックベリー]]
+- [[Wine/Word/プラム]]
+- [[Wine/Word/スパイス]]
+- [[Wine/Word/チョコレート]]
+- [[Wine/Word/タンニン]]
 
 ---
 

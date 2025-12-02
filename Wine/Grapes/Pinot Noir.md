@@ -57,11 +57,11 @@ https://www.enoteca.co.jp/article/archives/3173/
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/チェリー]]
-- [[Wine/Tasting/イチゴ]]
-- [[Wine/Tasting/ラズベリー]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/土の香り]]
+- [[Wine/Word/チェリー]]
+- [[Wine/Word/イチゴ]]
+- [[Wine/Word/ラズベリー]]
+- [[Wine/Word/スパイス]]
+- [[Wine/Word/土の香り]]
 
 ---
 

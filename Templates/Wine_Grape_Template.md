@@ -45,11 +45,11 @@ in:
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
-- [[Wine/Tasting/カシス]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/オーク]]
+- [[Wine/Word/タンニン]]
+- [[Wine/Word/黒系果実]]
+- [[Wine/Word/カシス]]
+- [[Wine/Word/スパイス]]
+- [[Wine/Word/オーク]]
 
 ---
 

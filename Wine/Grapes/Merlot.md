@@ -52,11 +52,11 @@ in:
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/プラム]]
-- [[Wine/Tasting/ブラックチェリー]]
-- [[Wine/Tasting/チョコレート]]
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
+- [[Wine/Word/プラム]]
+- [[Wine/Word/ブラックチェリー]]
+- [[Wine/Word/チョコレート]]
+- [[Wine/Word/タンニン]]
+- [[Wine/Word/黒系果実]]
 
 ---
 
