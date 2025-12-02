@@ -30,6 +30,8 @@ in:
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a618871000c74a0e2ba411267bf28b12.jpg)
 
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/7298ac76893d935c3a84d245607afcee.jpg)
+
 ## 🍇 主要ブドウ品種
 
 ### 赤
