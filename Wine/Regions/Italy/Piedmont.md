@@ -33,7 +33,9 @@ in:
 
 # 📍 Piedmont/Italy
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/cea5e62ba6b25809cd2cba18dca11dc8.jpg)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/307e5c98861cd07630c41ab14a5ffe81.jpg)
 
 ---
 
