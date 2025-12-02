@@ -14,11 +14,11 @@ aroma:
   - グーズベリー
 aging-potential: 早飲み向き
 major-regions:
-  - "[[Wine/Regions/France/Loire|France / Loire]]"
-  - "[[Wine/Regions/France/Bordeaux|France / Bordeaux]]"
-  - "[[Wine/Regions/New Zealand/Marlborough|New Zealand / Marlborough]]"
-  - "[[Wine/Regions/Chile/Central Valley|Chile / Central Valley]]"
-  - "[[Wine/Regions/South Africa/Stellenbosch|South Africa / Stellenbosch]]"
+  - "[[Wine/Regions/France/Loire]]"
+  - "[[Wine/Regions/France/Bordeaux]]"
+  - "[[Wine/Regions/New Zealand/Marlborough]]"
+  - "[[Wine/Regions/Chile/Central Valley]]"
+  - "[[Wine/Regions/South Africa/Stellenbosch]]"
 links:
   - https://www.enoteca.co.jp/article/archives/3344/
 tags:
