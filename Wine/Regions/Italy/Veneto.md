@@ -13,13 +13,12 @@ white-grapes:
 style: フルボディ
 climate: 温暖な海洋性気候で雨が多く、葡萄の成熟に適している
 soil: 砂利質・粘土・石灰岩
-links:
-  - https://www.enoteca.co.jp/article/archives/7348/
 tags:
   - Wine
   - Wine/Region
 related:
   - "[[アマローネ]]"
+  - "[[Veneto]]"
 in:
   - "[[MOC/Wine]]"
   - "[[MOC/Wine Region]]"
@@ -29,7 +28,11 @@ in:
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a618871000c74a0e2ba411267bf28b12.jpg)
 
-![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/7298ac76893d935c3a84d245607afcee.jpg)
+---
+
+## 🔗 リンク
+
+https://www.enoteca.co.jp/article/archives/7348/?td_seg=tds773385
 
 ## 🍇 主要ブドウ品種
 
