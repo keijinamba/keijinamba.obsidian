@@ -19,6 +19,8 @@ major-regions:
   - "[[Wine/Regions/Chile/Central Valley]]"
   - "[[Wine/Regions/Australia/Coonawarra]]"
   - "[[Wine/Regions/Italy/Tuscany]]"
+links:
+  - https://www.enoteca.co.jp/article/archives/3288/
 tags:
   - Wine
   - Wine/Grape
@@ -31,13 +33,9 @@ in:
 
 # 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/abd336f642b787a8b431fb6d8d480b21.webp)
 
----
-
-## 🔗 リンク
-
-https://www.enoteca.co.jp/article/archives/3288/
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d4616ade594d41c7e107ea12e044db24.webp)
 
 ---
 

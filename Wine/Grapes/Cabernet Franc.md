@@ -35,11 +35,9 @@ in:
 
 # 🍇 Cabernet Franc|カベルネ・フラン
 
----
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/ef3fde6a73b1ba68eda3a03db7bb4915.webp)
 
-## 🔗 リンク
-
-https://www.enoteca.co.jp/article/archives/5730/
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/2ab04996b87f0da549c1009619375d8a.webp)
 
 ---
 

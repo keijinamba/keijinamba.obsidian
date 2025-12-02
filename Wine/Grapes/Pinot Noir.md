@@ -20,6 +20,8 @@ major-regions:
   - "[[Wine/Regions/Germany]]"
   - "[[Wine/Regions/New Zealand]]"
   - "[[Wine/Regions/Australia]]"
+links:
+  - https://www.enoteca.co.jp/article/archives/3173/
 tags:
   - Wine
   - Wine/Grape
@@ -32,13 +34,9 @@ in:
 
 # 🍇 Pinot Noir|ピノ・ノワール
 
-![[Wine/Assets/Wine_Pinot_Noir.jpeg]]
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/37c9e1456a736e474f3963955e052f98.webp)
 
----
-
-## 🔗 リンク
-
-https://www.enoteca.co.jp/article/archives/3173/
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b52385a1e7337fab6f84b6b925146ff1.webp)
 
 ---
 
