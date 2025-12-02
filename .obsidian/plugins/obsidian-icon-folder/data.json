@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🟢",
+      "🔴",
       "🇨🇱",
       "🇪🇸",
-      "🇺🇸",
-      "🇫🇷",
-      "🇮🇹"
+      "🇺🇸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,13 @@
   "Wine/Makers/France": "🇫🇷",
   "Wine/Makers/USA": "🇺🇸",
   "Wine/Makers/Spain": "🇪🇸",
-  "Wine/Makers/Chile": "🇨🇱"
+  "Wine/Makers/Chile": "🇨🇱",
+  "Wine/Grapes/Cabernet Sauvignon.md": "🔴",
+  "Wine/Grapes/Cabernet Franc.md": "🔴",
+  "Wine/Grapes/Corvina.md": "🔴",
+  "Wine/Grapes/Merlot.md": "🔴",
+  "Wine/Grapes/Pinot Noir.md": "🔴",
+  "Wine/Grapes/Primitivo.md": "🔴",
+  "Wine/Grapes/Semillon.md": "🟢",
+  "Wine/Grapes/Sauvignon Blanc.md": "🟢"
 }

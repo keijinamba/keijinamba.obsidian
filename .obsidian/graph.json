@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16735324
       }
+    },
+    {
+      "query": "path:Wine/Word  ",
+      "color": {
+        "a": 1,
+        "rgb": 9023457
+      }
     }
   ],
   "collapse-display": true,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1.12202962239583,
   "lineSizeMultiplier": 1.87030843098958,
   "collapse-forces": true,
-  "centerStrength": 0.384236653645833,
-  "repelStrength": 10,
-  "linkStrength": 0.798624674479167,
-  "linkDistance": 196,
-  "scale": 0.8567361685438695,
+  "centerStrength": 0.5537109375,
+  "repelStrength": 12.4959309895833,
+  "linkStrength": 0.7532958984375,
+  "linkDistance": 30,
+  "scale": 0.46320286900920193,
   "close": true
 }
