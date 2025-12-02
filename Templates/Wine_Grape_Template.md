@@ -18,6 +18,8 @@ major-regions:
   - Chile / Central Valley
   - Australia / Coonawarra
   - Italy / Tuscany
+links:
+  - 
 tags:
   - Wine
   - Wine/Grape
@@ -31,12 +33,6 @@ in:
 # 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
 
 ![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
-
----
-
-## 🔗 リンク
-
-https://www.enoteca.co.jp/article/archives/3288/
 
 ---
 
