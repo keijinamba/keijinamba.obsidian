@@ -48,8 +48,8 @@ in:
 - [[Wine/Grapes/Cabernet Franc|カベルネ・フラン]]
 
 ### 白  
-- ヴェルナッチャ
-- トレッビアーノ
+- [[Wine/Grapes/Vernaccia|ヴェルナッチャ]]
+- [[Wine/Grapes/Trebbiano|トレッビアーノ]]
 
 ---
 

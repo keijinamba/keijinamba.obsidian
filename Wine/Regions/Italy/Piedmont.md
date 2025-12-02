@@ -42,13 +42,13 @@ in:
 ## 🍇 主要ブドウ品種
 
 ### 赤
-- ネッビオーロ
-- バルベーラ
-- ドルチェット
+- [[Wine/Grapes/Nebbiolo|ネッビオーロ]]
+- [[Wine/Grapes/Barbera|バルベーラ]]
+- [[Wine/Grapes/Dolcetto|ドルチェット]]
 
 ### 白  
-- コルテーゼ
-- モスカート・ビアンコ
+- [[Wine/Grapes/Cortese|コルテーゼ]]
+- [[Wine/Grapes/Moscato Bianco|モスカート・ビアンコ]]
 
 ---
 
