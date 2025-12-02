@@ -33,7 +33,9 @@ in:
 
 # 🍇 Sangiovese|サンジョベーゼ
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/dcd7f0c95fd7f012e7b8ece71ad571d3.webp)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/1cebc00d2d8965bf51ead18b0d4dbd56.webp)
 
 ---
 
