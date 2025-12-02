@@ -1,23 +1,16 @@
 ---
 type: wine-grape
-grape-en: Cabernet Sauvignon
-grape-ja: カベルネ・ソーヴィニヨン
-color: red # red / white / rosé
-style: フルボディ
-acidity: 中〜高
-tannin: 高い
-aroma:
-  - カシス
-  - 黒系果実
-  - スパイス
-  - 草っぽさ
-aging-potential: 長期熟成向き
-major-regions:
-  - France / Bordeaux
-  - USA / California
-  - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+grape-en: # Cabernet Sauvignon
+grape-ja: # カベルネ・ソーヴィニヨン
+color: # red / white / rosé
+style: # フルボディ
+acidity: # 中〜高
+tannin: # 高い
+aroma: # Array of カシス, 黒系果実, スパイス, 草っぽさ, etc...
+  -
+aging-potential: # 長期熟成 / 早飲み
+major-regions: # Array of links to Wine/Regions/XXX/YYY
+  - # "[[Wine/Regions/France/Bordeaux]]"
 links:
   - 
 tags:
@@ -32,7 +25,7 @@ in:
 
 # 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
+<!-- upload image here -->
 
 ---
 
