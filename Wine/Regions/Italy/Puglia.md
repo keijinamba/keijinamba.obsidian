@@ -18,6 +18,9 @@ white-grapes:
 style: 熟した果実味のフルボディ赤と海風が育む塩味の白
 climate: 地中海性。アドリア海とイオニア海の風で日照豊富、夏は暑く乾燥し冬は温暖
 soil: 石灰質テッラ・ロッサ、粘土、砂質、海沿いの石灰岩台地
+links:
+  - https://www.wine-searcher.com/regions-puglia
+  - https://italysegret.com/puglia-wine-guide/
 tags:
   - Wine
   - Wine/Region
@@ -33,13 +36,6 @@ in:
 # 📍 Puglia/Italy
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/5369346099f8828e40f34679432a967a.jpg)
-
----
-
-## 🔗 リンク
-
-- https://www.wine-searcher.com/regions-puglia
-- https://italysegret.com/puglia-wine-guide/
 
 ---
 
