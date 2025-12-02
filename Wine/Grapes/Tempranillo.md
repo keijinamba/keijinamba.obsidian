@@ -19,7 +19,7 @@ major-regions:
   - "[[Wine/Regions/Spain/Ribera del Duero]]"
   - "[[Wine/Regions/Spain/La Mancha]]"
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/7585/
 tags:
   - Wine
   - Wine/Grape
