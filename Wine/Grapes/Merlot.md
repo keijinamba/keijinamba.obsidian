@@ -34,7 +34,9 @@ in:
 
 # 🍇 Merlot|メルロー
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a44e426d1c6835330a9e07a1e3863036.webp)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/f5b200e28b8ba9e22bbe2cde5b4c9cff.webp)
 
 ---
 
