@@ -14,11 +14,11 @@ aroma:
   - チョコレート
 aging-potential: 長期熟成向き
 major-regions:
-  - France / Bordeaux
-  - USA / California
-  - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+  - "[[Wine/Regions/France/Bordeaux]]"
+  - "[[Wine/Regions/USA/California]]"
+  - "[[Wine/Regions/Chile/Central Valley]]"
+  - "[[Wine/Regions/Australia/Coonawarra]]"
+  - "[[Wine/Regions/Italy/Tuscany]]"
 tags:
   - Wine
   - Wine/Grape

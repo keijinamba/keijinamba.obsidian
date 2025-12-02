@@ -15,11 +15,11 @@ aroma:
   - タバコ
 aging-potential: 中期熟成向き
 major-regions:
-  - France / Loire (Chinon, Bourgueil)
-  - France / Bordeaux (Right Bank)
-  - Italy / Tuscany (Bolgheri)
-  - Canada / Ontario
-  - Japan / Yamanashi
+  - "[[Wine/Regions/France/Loire]]"
+  - "[[Wine/Regions/France/Bordeaux]]"
+  - "[[Wine/Regions/Italy/Tuscany]]"
+  - "[[Wine/Regions/Canada/Ontario]]"
+  - "[[Wine/Regions/Japan/Yamanashi]]"
 tags:
   - Wine
   - Wine/Grape

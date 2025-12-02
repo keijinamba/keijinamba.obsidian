@@ -13,7 +13,7 @@ aroma:
   - スミレ
 aging-potential: 中〜長期熟成向き
 major-regions:
-  - Italy / Veneto
+  - "[[Wine/Regions/Italy/Veneto]]"
 tags:
   - Wine
   - Wine/Grape
