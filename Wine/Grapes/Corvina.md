@@ -14,6 +14,8 @@ aroma:
 aging-potential: 中〜長期熟成向き
 major-regions:
   - "[[Wine/Regions/Italy/Veneto]]"
+links:
+  - https://www.jetlc.co.jp/wine/grape/corvina/
 tags:
   - Wine
   - Wine/Grape
@@ -28,12 +30,6 @@ in:
 # 🍇 Corvina|コルヴィーナ
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/321f6250b39c3d09cfdb79fcb5511742.webp)
-
----
-
-## 🔗 リンク
-
-https://www.jetlc.co.jp/wine/grape/corvina/
 
 ---
 
