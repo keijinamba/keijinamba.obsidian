@@ -14,11 +14,11 @@ aroma:
   - グーズベリー
 aging-potential: 早飲み向き
 major-regions:
-  - France / Loire
-  - France / Bordeaux
-  - New Zealand / Marlborough
-  - Chile / Central Valley
-  - South Africa / Stellenbosch
+  - "[[Wine/Regions/France/Loire|France / Loire]]"
+  - "[[Wine/Regions/France/Bordeaux|France / Bordeaux]]"
+  - "[[Wine/Regions/New Zealand/Marlborough|New Zealand / Marlborough]]"
+  - "[[Wine/Regions/Chile/Central Valley|Chile / Central Valley]]"
+  - "[[Wine/Regions/South Africa/Stellenbosch|South Africa / Stellenbosch]]"
 links:
   - https://www.enoteca.co.jp/article/archives/3344/
 tags:
@@ -41,9 +41,9 @@ in:
 
 - [[Wine/Regions/France/Loire|フランス ロワール]]
 - [[Wine/Regions/France/Bordeaux|フランス ボルドー]]
-- New Zealand / Marlborough
+- [[Wine/Regions/New Zealand/Marlborough|ニュージーランド マールボロ]]
 - [[Wine/Regions/Chile/Central Valley|チリ セントラルヴァレー]]
-- South Africa / Stellenbosch
+- [[Wine/Regions/South Africa/Stellenbosch|南アフリカ ステレンボッシュ]]
 
 ---
 
