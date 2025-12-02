@@ -31,7 +31,9 @@ in:
 
 # 🍇 Primitivo|プリミティーボ
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4cf1bd13ec2fd6332b8da17758a4d7d6.webp)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/990f44a692bf2b968e5f2625cc3b57b4.webp)
 
 ---
 
