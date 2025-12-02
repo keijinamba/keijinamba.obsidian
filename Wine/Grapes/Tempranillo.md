@@ -24,7 +24,7 @@ tags:
   - Wine
   - Wine/Grape
 related:
-  - "[[Wine/Grapes/Grenache]]"
+  - "[[]]"
 in:
   - "[[MOC/Wine]]"
   - "[[MOC/Wine Grape]]"
