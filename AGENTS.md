@@ -2,6 +2,7 @@
 
 ## ワインについて
 テンプレートに書かれていること以外は*指定がない限り*は余計に書かず簡潔に要点をまとめる。
+properties部分で `regions` `grapes` `maker` などは `Wine/Regions/XXX/YYY` などのノートにリンクとして参照させる。
 
 ### エリアごとのノート
 ワインに関して、 `Bordeaux/France` や `Puglia/Italy` などエリアごとのノートがある。
