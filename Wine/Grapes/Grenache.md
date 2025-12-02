@@ -33,7 +33,9 @@ in:
 
 # 🍇 Grenache|グルナッシュ
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/9d74b41bed0d9075888615b03708262e.webp)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/251681a6e7a29705588d9440779093a4.webp)
 
 ---
 
