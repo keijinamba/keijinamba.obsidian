@@ -20,7 +20,7 @@ style: フルボディからライトボディまで多様、エレガントで�
 climate: アルプス山脈に囲まれ、温暖な春、典型的な夏、昼夜の寒暖差が少ない
 soil: 石灰岩・粘土・砂利質
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/3702/
 tags:
   - Wine
   - Wine/Region

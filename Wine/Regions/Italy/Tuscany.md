@@ -20,7 +20,7 @@ style: ミディアム〜フルボディ、エレガントで酸味がしっか�
 climate: 沿岸部は温暖な地中海性気候、内陸部は大陸性気候で昼夜の寒暖差が大きい
 soil: 石灰岩・粘土・砂利質
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/5646/
 tags:
   - Wine
   - Wine/Region
