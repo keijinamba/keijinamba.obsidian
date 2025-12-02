@@ -35,6 +35,8 @@ in:
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/045f408382fbde737f327924adde2e55.webp)
 
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/16f3a3027ce65776f3a05e1a67fbfcc3.webp)
+
 ---
 
 ## 🌍 主な産地とスタイル

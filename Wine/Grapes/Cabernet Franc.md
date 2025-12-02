@@ -20,6 +20,8 @@ major-regions:
   - "[[Wine/Regions/Italy/Tuscany]]"
   - "[[Wine/Regions/Canada/Ontario]]"
   - "[[Wine/Regions/Japan/Yamanashi]]"
+links:
+  - https://www.enoteca.co.jp/article/archives/5730/
 tags:
   - Wine
   - Wine/Grape
