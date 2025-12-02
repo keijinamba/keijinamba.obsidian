@@ -14,11 +14,13 @@ aroma:
   - チョコレート
 aging-potential: 長期熟成向き
 major-regions:
-  - France / Bordeaux
-  - USA / California
-  - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+  - "[[Wine/Regions/France/Bordeaux]]"
+  - "[[Wine/Regions/USA/California]]"
+  - "[[Wine/Regions/Chile/Central Valley]]"
+  - "[[Wine/Regions/Australia/Coonawarra]]"
+  - "[[Wine/Regions/Italy/Tuscany]]"
+links:
+  - https://www.enoteca.co.jp/article/archives/3288/
 tags:
   - Wine
   - Wine/Grape
@@ -31,13 +33,9 @@ in:
 
 # 🍇 Cabernet Sauvignon|カベルネ・ソーヴィニヨン
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon.jpeg]]
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/abd336f642b787a8b431fb6d8d480b21.webp)
 
----
-
-## 🔗 リンク
-
-https://www.enoteca.co.jp/article/archives/3288/
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d4616ade594d41c7e107ea12e044db24.webp)
 
 ---
 
@@ -57,11 +55,11 @@ https://www.enoteca.co.jp/article/archives/3288/
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
-- [[Wine/Tasting/カシス]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/オーク]]
+- [[Wine/Word/タンニン]]
+- [[Wine/Word/黒系果実]]
+- [[Wine/Word/カシス]]
+- [[Wine/Word/スパイス]]
+- [[Wine/Word/オーク]]
 
 ---
 

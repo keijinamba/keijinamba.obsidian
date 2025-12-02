@@ -35,6 +35,8 @@ in:
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/cdec53c42f5ec8218af1eb832aa20aa7.webp)
 
+ぶどう畑に霧（ネッビア）が
+
 ---
 
 ## 🌍 主な産地とスタイル
