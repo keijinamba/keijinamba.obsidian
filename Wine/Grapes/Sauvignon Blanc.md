@@ -1,23 +1,24 @@
 ---
 type: wine-grape
-grape-en: Cabernet Sauvignon
+grape-en: Sauvignon Blanc
 grape-ja: ソーヴィニヨン・ブラン
 color: white
-style: フルボディ
-acidity: 中〜高
-tannin: 高い
+style: 軽〜中ボディ
+acidity: 高い
+tannin: なし
 aroma:
-  - カシス
-  - 黒系果実
-  - スパイス
   - 草っぽさ
-aging-potential: 長期熟成向き
+  - グレープフルーツ
+  - ネトル
+  - ライム
+  - グーズベリー
+aging-potential: 早飲み向き
 major-regions:
+  - France / Loire
   - France / Bordeaux
-  - USA / California
+  - New Zealand / Marlborough
   - Chile / Central Valley
-  - Australia / Coonawarra
-  - Italy / Tuscany
+  - South Africa / Stellenbosch
 links:
   - https://www.enoteca.co.jp/article/archives/3344/
 tags:
@@ -38,13 +39,11 @@ in:
 
 ## 🌍 主な産地とスタイル
 
-![[Wine/Assets/Wine_Cabernet_Sauvignon_Region.jpeg]]
-
+- [[Wine/Regions/France/Loire|フランス ロワール]]
 - [[Wine/Regions/France/Bordeaux|フランス ボルドー]]
-- [[Wine/Regions/USA/California|アメリカ カリフォルニア]]
+- New Zealand / Marlborough
 - [[Wine/Regions/Chile/Central Valley|チリ セントラルヴァレー]]
-- [[Wine/Regions/Australia/Coonawarra|オーストラリア クナワラ]]
-- [[Wine/Regions/Italy/Tuscany|イタリア トスカーナ]]
+- South Africa / Stellenbosch
 
 ---
 
@@ -52,19 +51,19 @@ in:
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/黒系果実]]
-- [[Wine/Tasting/カシス]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/オーク]]
+- [[Wine/Tasting/草っぽさ]]
+- [[Wine/Tasting/グレープフルーツ]]
+- [[Wine/Tasting/ライム]]
+- [[Wine/Tasting/ミネラル]]
 
 ---
 
 ## 🍽 相性の良い料理
 
-- 赤身肉（ステーキ、ローストビーフ）
-- ラムチョップ
-- ハードタイプのチーズ
-- グリル料理全般
+- 魚介類・シーフード
+- 山羊チーズ
+- アジア料理
+- ハーブを使った料理
+- サラダ
 
 ---
