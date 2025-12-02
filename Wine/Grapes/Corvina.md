@@ -47,10 +47,10 @@ https://www.jetlc.co.jp/wine/grape/corvina/
 
 テイスティングキーワード（品種として）
 
-- [[Wine/Tasting/タンニン]]
-- [[Wine/Tasting/ベリー]]
-- [[Wine/Tasting/チェリー]]
-- [[Wine/Tasting/スパイス]]
+- [[Wine/Word/タンニン]]
+- [[Wine/Word/ベリー]]
+- [[Wine/Word/チェリー]]
+- [[Wine/Word/スパイス]]
 
 ---
 

@@ -111,11 +111,11 @@ https://www.enoteca.co.jp/article/archives/5730/
 
 ## 🍷 テイスティングキーワード
 
-- [[Wine/Tasting/赤系果実]]
-- [[Wine/Tasting/ラズベリー]]
-- [[Wine/Tasting/スミレ]]
-- [[Wine/Tasting/ピーマン]]
-- [[Wine/Tasting/エレガント]]
+- [[Wine/Word/赤系果実]]
+- [[Wine/Word/ラズベリー]]
+- [[Wine/Word/スミレ]]
+- [[Wine/Word/ピーマン]]
+- [[Wine/Word/エレガント]]
 
 ---
 
