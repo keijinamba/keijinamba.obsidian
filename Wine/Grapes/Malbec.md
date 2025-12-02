@@ -17,7 +17,7 @@ major-regions:
   - "[[Wine/Regions/Argentina/Mendoza]]"
   - "[[Wine/Regions/France/Cahors]]"
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/8361/
 tags:
   - Wine
   - Wine/Grape

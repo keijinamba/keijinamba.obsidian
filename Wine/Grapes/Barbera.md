@@ -15,7 +15,7 @@ aging-potential: 早飲み〜中期熟成向き
 major-regions:
   - "[[Wine/Regions/Italy/Piedmont]]"
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/8917/
 tags:
   - Wine
   - Wine/Grape
