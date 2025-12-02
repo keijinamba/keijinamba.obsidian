@@ -18,7 +18,7 @@ aging-potential: 長期熟成向き
 major-regions:
   - "[[Wine/Regions/Italy/Piedmont]]"
 links:
-  - 
+  - https://www.enoteca.co.jp/article/archives/5874
 tags:
   - Wine
   - Wine/Grape
@@ -31,7 +31,9 @@ in:
 
 # 🍇 Nebbiolo|ネッビオーロ
 
-<!-- TODO: upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/f1ef53b0ecd91c13c788fc226feb28ca.webp)
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/cdec53c42f5ec8218af1eb832aa20aa7.webp)
 
 ---
 
