@@ -1,10 +1,8 @@
 ---
-type: wine-word
-name: # Claude Monet
-name-ja: # クロード・モネ
-country: # France
-movement: # "[[Art/Movement/Impressionism|印象派]]"
-style: # Painting / Photography / Sculpture / Architecture / etc...
+type: art-movement
+name: # Impressionism
+name-ja: # 印象派
+
 links:
   - 
 tags:
