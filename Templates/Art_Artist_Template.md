@@ -29,6 +29,7 @@ description here
 ### 1916年
 #### [[Art/Asset/Claude Monet/睡蓮|睡蓮]]
 
-<!-- image url in the Asset note -->
+<!-- image url in the Asset note (width is 400) -->
+<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/dfcfaec1e880ae522c6ba3f44ba3e059.jpg) -->
 
 ---
