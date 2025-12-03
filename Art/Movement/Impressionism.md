@@ -10,11 +10,10 @@ tags:
   - Art
   - Art/Movement
 related:
-  - "[[]]"
+  - "[[Art_Movement_Timeline.pdf]]"
 in:
   - "[[MOC/Art Movement]]"
 ---
-
 # Impressionism|印象派
 
 <!-- upload image here -->

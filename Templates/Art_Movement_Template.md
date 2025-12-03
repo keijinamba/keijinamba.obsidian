@@ -9,7 +9,7 @@ tags:
   - Art
   - Art/Movement
 related:
-  - "[[]]"
+  - "[[Art_Movement_Timeline.pdf]]"
 in:
   - "[[MOC/Art Movement]]"
 ---
