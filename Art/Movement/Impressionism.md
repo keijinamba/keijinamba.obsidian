@@ -40,11 +40,11 @@ in:
 ## 代表作家
 
 - [[Art/Artists/Claude Monet|クロード・モネ]]
-- ピエール＝オーギュスト・ルノワール
-- エドガー・ドガ
-- エドゥアール・マネ
-- アルフレッド・シスレー
-- カミーユ・ピサロ
-- ベルト・モリゾ
+- [[Art/Artists/Pierre-Auguste Renoir|ピエール＝オーギュスト・ルノワール]]
+- [[Art/Artists/Edgar Degas|エドガー・ドガ]]
+- [[Art/Artists/Édouard Manet|エドゥアール・マネ]]
+- [[Art/Artists/Alfred Sisley|アルフレッド・シスレー]]
+- [[Art/Artists/Camille Pissarro|カミーユ・ピサロ]]
+- [[Art/Artists/Berthe Morisot|ベルト・モリゾ]]
 
 ---
