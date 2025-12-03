@@ -29,8 +29,7 @@ in:
 ### 1888年
 #### [[Art/Asset/Vincent van Gogh/ひまわり|ひまわり]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/e24f2f6f4b579c359fdfa24cf840523a.jpg)
 
 #### [[Art/Asset/Vincent van Gogh/夜のカフェテラス|夜のカフェテラス]] 
 
@@ -45,8 +44,7 @@ in:
 
 #### [[Art/Asset/Vincent van Gogh/アルルの寝室|アルルの寝室]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/9435da7302d5a3dfb8ba3461302af4d3.jpg)
 
 ### 1890年
 #### [[Art/Asset/Vincent van Gogh/カラスのいる麦畑|カラスのいる麦畑]] 
