@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCamera",
-      "LiPaintbrush2",
-      "LiPaintbrush",
-      "🟢",
-      "🔴"
+      "LiCoffee",
+      "LiImage",
+      "LiPalette",
+      "LiUser2",
+      "LiCamera"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,7 @@
   "Biology": "LiDog",
   "Wine": "LiWine",
   "Geography": "LiEarth",
-  "Tea": "LiAnvil",
+  "Tea": "LiCoffee",
   "Programming": "LiLaptop",
   "Tea/Assets": "LiImages",
   "Biology/Assets": "LiImages",
@@ -75,7 +75,8 @@
   "Wine/Grapes/Barbera.md": "🔴",
   "Wine/Grapes/Grenache.md": "🔴",
   "Wine/Grapes/Tempranillo.md": "🔴",
-  "Art": "LiPaintbrush2",
+  "Art": "LiImage",
   "Art/Photography": "LiCamera",
-  "Art/Painting": "LiPaintbrush2"
+  "Art/Painting": "LiPalette",
+  "Art/Artists": "LiUser2"
 }
