@@ -4,7 +4,7 @@ name: # Impressionism
 name-ja: # 印象派
 period: # 1860年代〜1880年代
 links:
-  - 
+  - https://artsandculture.google.com/entity/%E5%8D%B0%E8%B1%A1%E6%B4%BE/m03xj1
 tags:
   - Art
   - Art/Movement
