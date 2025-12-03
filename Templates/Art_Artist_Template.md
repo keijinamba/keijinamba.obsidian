@@ -25,11 +25,10 @@ description here
 ---
 
 ## 代表作
+  
+### 1916年
+#### [[Art/Asset/Claude Monet/睡蓮|睡蓮]]
 
-### 睡蓮
-
-<!-- upload image here -->
-
-description here
+<!-- image url in the Asset note -->
 
 ---
