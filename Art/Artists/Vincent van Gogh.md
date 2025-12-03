@@ -45,7 +45,7 @@ in:
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/9435da7302d5a3dfb8ba3461302af4d3.jpg)
 
 ### 1890年
-#### [[Art/Asset/Vincent van Gogh/アーモンドの花|アーモンドの花]] 
+#### [[Art/Asset/Vincent van Gogh/花咲くアーモンドの木の枝|花咲くアーモンドの木の枝]] 
 
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...)
 
