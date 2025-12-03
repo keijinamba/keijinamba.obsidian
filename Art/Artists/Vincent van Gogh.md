@@ -47,8 +47,7 @@ in:
 ### 1890年
 #### [[Art/Asset/Vincent van Gogh/カラスのいる麦畑|カラスのいる麦畑]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/50d90ad3df7d4c47b53d922da7502383.jpg)
 
 ---
 
