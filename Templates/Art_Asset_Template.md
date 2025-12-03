@@ -2,31 +2,21 @@
 type: art-asset
 name: # 印象・日の出
 name-ja: # 印象・日の出
-year: # 1875年
 artist: # "[[Art/Artists/Claude Monet|クロード・モネ]]"
+year: # 1875年
 style: # Painting / Photography / Sculpture / Architecture / etc...
 links:
   - 
 tags:
   - Art
-  - Art/Artist
+  - Art/Asset
 related:
   - "[[]]"
 in:
-  - "[[MOC/Art Artist]]"
+  - "[[MOC/Art Asset]]"
 ---
 
-# Claude Monet|クロード・モネ
-
-<!-- upload image here -->
-
-description here
-
----
-
-## 代表作
-
-### 睡蓮
+# 印象・日の出
 
 <!-- upload image here -->
 

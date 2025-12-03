@@ -79,5 +79,6 @@
   "Art/Photography": "LiCamera",
   "Art/Painting": "LiPalette",
   "Art/Artists": "LiUser2",
-  "Art/Movement": "LiMegaphone"
+  "Art/Movement": "LiMegaphone",
+  "Art/Asset": "LiImage"
 }
