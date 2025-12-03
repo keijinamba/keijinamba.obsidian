@@ -1,5 +1,5 @@
 ---
-type: art-artist
+type: art-asset
 name: # Claude Monet
 name-ja: # クロード・モネ
 country: # France
