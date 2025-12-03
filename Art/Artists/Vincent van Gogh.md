@@ -38,8 +38,7 @@ in:
 ### 1889年
 #### [[Art/Asset/Vincent van Gogh/星月夜|星月夜]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a5b9220fedb568c6a29d2559577a26fa.jpg)
 
 #### [[Art/Asset/Vincent van Gogh/アルルの寝室|アルルの寝室]] 
 
