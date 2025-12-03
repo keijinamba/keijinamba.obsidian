@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaintbrush2",
+      "LiPaintbrush",
       "🟢",
       "🔴",
-      "🇨🇱",
-      "🇪🇸",
-      "🇺🇸"
+      "🇨🇱"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -74,5 +74,6 @@
   "Wine/Grapes/Malbec.md": "🔴",
   "Wine/Grapes/Barbera.md": "🔴",
   "Wine/Grapes/Grenache.md": "🔴",
-  "Wine/Grapes/Tempranillo.md": "🔴"
+  "Wine/Grapes/Tempranillo.md": "🔴",
+  "Art": "LiPaintbrush2"
 }
