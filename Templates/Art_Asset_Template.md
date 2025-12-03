@@ -1,9 +1,9 @@
 ---
 type: art-asset
-name: # Claude Monet
-name-ja: # クロード・モネ
-country: # France
-movement: # "[[Art/Movement/Impressionism|印象派]]"
+name: # 印象・日の出
+name-ja: # 印象・日の出
+period: # 1875年
+artist: # "[[Art/Artists/Claude Monet|クロード・モネ]]"
 style: # Painting / Photography / Sculpture / Architecture / etc...
 links:
   - 

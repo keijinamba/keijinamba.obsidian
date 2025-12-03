@@ -1,6 +1,6 @@
 ---
 type: art-artist
-name: # 印象・日の出
+name: # Claude Monet
 name-ja: # クロード・モネ
 country: # France
 movement: # "[[Art/Movement/Impressionism|印象派]]"
