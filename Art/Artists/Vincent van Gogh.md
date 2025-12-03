@@ -33,8 +33,7 @@ in:
 
 #### [[Art/Asset/Vincent van Gogh/夜のカフェテラス|夜のカフェテラス]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/6dca6884b79138700b01a3dcf2141dcd.jpeg)
 
 ### 1889年
 #### [[Art/Asset/Vincent van Gogh/星月夜|星月夜]] 
