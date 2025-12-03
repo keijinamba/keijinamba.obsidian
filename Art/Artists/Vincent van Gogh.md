@@ -47,7 +47,7 @@ in:
 ### 1890年
 #### [[Art/Asset/Vincent van Gogh/花咲くアーモンドの木の枝|花咲くアーモンドの木の枝]] 
 
-![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...)
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/01e88a0a68783d67ad531ef147e579dc.jpg)
 
 #### [[Art/Asset/Vincent van Gogh/カラスのいる麦畑|カラスのいる麦畑]] 
 
