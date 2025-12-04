@@ -37,8 +37,8 @@ in:
 
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a4cf064b84aeaa1dc518dc30640805b0.jpg)
 
-### 1874年
-#### [[Art/Asset/George Frederic Watts/アルスター|アルスター]] 
+### 1884年頃
+#### [[Art/Asset/George Frederic Watts/パオロとフランチェスカ|パオロとフランチェスカ]] 
 
 <!-- image url in the Asset note (width is 400) -->
 <!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
