@@ -26,12 +26,6 @@ in:
 
 ## 代表作
 
-### 1854年
-#### [[Art/Asset/George Frederic Watts/マリー・フォックスと犬|マリー・フォックスと犬]] 
-
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
-
 ### 1868年頃
 #### [[Art/Asset/George Frederic Watts/クライティ|クライティ]] 
 
@@ -40,8 +34,7 @@ in:
 ### 1884年頃
 #### [[Art/Asset/George Frederic Watts/パオロとフランチェスカ|パオロとフランチェスカ]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/42f890afd350a8da22b696b9e8738dd9.jpg)
 
 ### 1886年
 #### [[Art/Asset/George Frederic Watts/希望|希望]] 
