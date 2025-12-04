@@ -30,8 +30,7 @@ in:
 ### 1883-1884年
 #### [[Art/Asset/Georges Seurat/アニエールの水浴|アニエールの水浴]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/0c08d6ea99572e975f091ab7d59b5768.jpg)
 
 ### 1884-1886年
 #### [[Art/Asset/Georges Seurat/グランド・ジャット島の日曜日の午後|グランド・ジャット島の日曜日の午後]] 
