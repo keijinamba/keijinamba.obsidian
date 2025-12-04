@@ -49,8 +49,7 @@ in:
 ### 1901年
 #### [[Art/Asset/Odilon Redon/オフィーリア|オフィーリア]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/25290a83de50bd58c9b6b9d48de6bd34.jpg)
 
 ### 1904年頃
 #### [[Art/Asset/Odilon Redon/青い花瓶の花|青い花瓶の花]] 
