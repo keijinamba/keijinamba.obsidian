@@ -29,8 +29,7 @@ in:
 ### 1878年
 #### [[Art/Asset/Odilon Redon/眼＝気球|眼＝気球]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/63fbcfa11bf916c6ad08028343d09e72.jpg)
 
 ### 1887年
 #### [[Art/Asset/Odilon Redon/蜘蛛|蜘蛛]] 
