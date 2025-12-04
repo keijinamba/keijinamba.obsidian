@@ -56,10 +56,11 @@ in:
 
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4392b4a21381fb3b2c4b36a286b6f916.jpg)
 
-### 1914年
-#### [[Art/Asset/Odilon Redon/キュクロプス|キュクロプス]] 
+### 1905年-1916年
+#### [[Art/Asset/Odilon Redon/The Chariot of Apollo|The Chariot of Apollo]] 
 
-![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b86a3ffd766c6dfcf9391e440c461edb.jpg)
+<!-- image url in the Asset note (width is 400) -->
+<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
 
 ### 1906年頃
 #### [[Art/Asset/Odilon Redon/窓|窓]] 
@@ -72,6 +73,11 @@ in:
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/670146b0a39dfc7aad11518f801f882a.jpg)
 
 ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/957af39050a386ae6da1b8610503a24e.jpg)  
+
+### 1914年
+#### [[Art/Asset/Odilon Redon/キュクロプス|キュクロプス]] 
+
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b86a3ffd766c6dfcf9391e440c461edb.jpg)
 
 ---
 
