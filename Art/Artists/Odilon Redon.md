@@ -64,8 +64,7 @@ in:
 ### 1906年頃
 #### [[Art/Asset/Odilon Redon/窓|窓]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4472d7ac23a59149eff07d4f4be45e9b.jpg)
 
 ### 1906-1907年頃
 #### [[Art/Asset/Odilon Redon/アポロンの戦車|アポロンの戦車]] 
