@@ -69,8 +69,9 @@ in:
 ### 1906-1907年頃
 #### [[Art/Asset/Odilon Redon/アポロンの戦車|アポロンの戦車]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/670146b0a39dfc7aad11518f801f882a.jpg)
+
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/957af39050a386ae6da1b8610503a24e.jpg)  
 
 ---
 
