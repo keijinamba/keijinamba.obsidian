@@ -40,8 +40,7 @@ in:
 ### 1899年頃
 #### [[Art/Asset/Paul Cézanne/りんごとオレンジ|りんごとオレンジ]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/c7ff0cce99fc145a555c334be771bd14.jpg)
 
 ---
 
