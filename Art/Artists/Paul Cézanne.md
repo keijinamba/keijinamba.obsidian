@@ -1,0 +1,48 @@
+---
+type: art-artist
+name: Paul Cézanne
+name-ja: ポール・セザンヌ
+country: France
+movement: "[[Art/Movement/Post-Impressionism|ポスト印象派]]"
+style: Painting
+links:
+  - https://artsandculture.google.com/entity/ポール・セザンヌ/m0b8vx
+tags:
+  - Art
+  - Art/Artist
+related:
+  - "[[]]"
+in:
+  - "[[MOC/Art Artist]]"
+---
+
+# Paul Cézanne|ポール・セザンヌ
+
+<!-- upload image here -->
+
+フランスの画家。後期印象派を代表する巨匠。印象派の色彩と伝統的な絵画の構造を融合させ、対象を円筒、球、円錐などの幾何学的形態に還元して捉え、それらを画面上に再構成することで独自の絵画空間を構築した。色彩を重視し、色面の対比や調和によって形態感や空間性を表現した。キュビスムなど20世紀の美術に多大な影響を与えた。
+
+---
+
+## 代表作
+
+### 1890-1895年頃
+#### [[Art/Asset/Paul Cézanne/カード遊びをする人々|カード遊びをする人々]] 
+
+<!-- image url in the Asset note (width is 400) -->
+<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+
+### 1898-1905年頃
+#### [[Art/Asset/Paul Cézanne/大水浴図|大水浴図]] 
+
+<!-- image url in the Asset note (width is 400) -->
+<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+
+### 1899年頃
+#### [[Art/Asset/Paul Cézanne/りんごとオレンジ|りんごとオレンジ]] 
+
+<!-- image url in the Asset note (width is 400) -->
+<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+
+---
+
