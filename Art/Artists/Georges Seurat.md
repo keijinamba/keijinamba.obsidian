@@ -40,8 +40,7 @@ in:
 ### 1890-1891年
 #### [[Art/Asset/Georges Seurat/サーカス|サーカス]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d9633c4b0a0583deab32b4d1332eb8d0.jpg)
 
 ---
 
