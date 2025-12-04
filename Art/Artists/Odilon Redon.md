@@ -54,14 +54,12 @@ in:
 ### 1904年頃
 #### [[Art/Asset/Odilon Redon/青い花瓶の花|青い花瓶の花]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4392b4a21381fb3b2c4b36a286b6f916.jpg)
 
 ### 1914年
 #### [[Art/Asset/Odilon Redon/キュクロプス|キュクロプス]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b86a3ffd766c6dfcf9391e440c461edb.jpg)
 
 ### 1906年頃
 #### [[Art/Asset/Odilon Redon/窓|窓]] 
