@@ -36,8 +36,7 @@ in:
 ### 1884-1886年
 #### [[Art/Asset/Georges Seurat/グランド・ジャット島の日曜日の午後|グランド・ジャット島の日曜日の午後]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/8d1231a9502f342c4d2299bee5c75c25.jpg)
 
 ### 1890-1891年
 #### [[Art/Asset/Georges Seurat/サーカス|サーカス]] 
