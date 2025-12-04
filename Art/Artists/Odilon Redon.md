@@ -44,8 +44,7 @@ in:
 ### 1896年頃
 #### [[Art/Asset/Odilon Redon/神秘的な対話|神秘的な対話]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d48f1358d177d26e2f55629d4bc94228.jpg)
 
 ### 1901年
 #### [[Art/Asset/Odilon Redon/オフィーリア|オフィーリア]] 
