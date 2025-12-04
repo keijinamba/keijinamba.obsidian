@@ -39,8 +39,7 @@ in:
 ### 1890年
 #### [[Art/Asset/Odilon Redon/目を閉じて|目を閉じて]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/48d305448f28b05868ae73ceb77e4993.jpg)
 
 ### 1896年頃
 #### [[Art/Asset/Odilon Redon/神秘的な対話|神秘的な対話]] 
