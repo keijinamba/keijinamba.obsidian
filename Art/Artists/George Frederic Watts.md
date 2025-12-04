@@ -35,8 +35,7 @@ in:
 ### 1868年頃
 #### [[Art/Asset/George Frederic Watts/クライティ|クライティ]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a4cf064b84aeaa1dc518dc30640805b0.jpg)
 
 ### 1874年
 #### [[Art/Asset/George Frederic Watts/アルスター|アルスター]] 
@@ -47,8 +46,7 @@ in:
 ### 1886年
 #### [[Art/Asset/George Frederic Watts/希望|希望]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/a565fdb92decc347a7eceb0c0f522686.jpg)
 
 ---
 
