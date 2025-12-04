@@ -6,7 +6,8 @@ country: France
 movement: "[[Art/Movement/Post-Impressionism|ポスト印象派]]"
 style: Painting
 links:
-  - https://artsandculture.google.com/entity/ジョルジュ・スーラ/m0b8vx
+  - https://artsandculture.google.com/entity/ジョルジュ・スーラ/m0gshm
+  - https://ja.wikipedia.org/wiki/ジョルジュ・スーラ
 tags:
   - Art
   - Art/Artist
@@ -18,7 +19,7 @@ in:
 
 # Georges Seurat|ジョルジュ・スーラ
 
-<!-- upload image here -->
+![image|300](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b3e79167991f2f6cf4d8a05061e0b9b8.jpg)
 
 フランスの画家。新印象派の創始者として知られ、点描法（ポワンティリスム）を開発した。科学的な色彩理論を絵画に取り入れ、小さな点（タッチ）を並置することで色彩を混ぜずに視覚的に混合させる技法を確立した。31歳の若さでジフテリアにより亡くなったが、その革新的な技法と科学的なアプローチは後の芸術家たちに大きな影響を与えた。
 
