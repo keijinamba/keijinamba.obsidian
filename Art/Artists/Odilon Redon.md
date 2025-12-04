@@ -34,8 +34,7 @@ in:
 ### 1887年
 #### [[Art/Asset/Odilon Redon/蜘蛛|蜘蛛]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/518f3b8a45abc928e46bc74b67123686.png)
 
 ### 1890年
 #### [[Art/Asset/Odilon Redon/目を閉じて|目を閉じて]] 
