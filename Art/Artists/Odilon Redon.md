@@ -59,8 +59,7 @@ in:
 ### 1905年-1916年
 #### [[Art/Asset/Odilon Redon/The Chariot of Apollo|The Chariot of Apollo]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/f69e141e0446db531dc91c35366ec440.jpg)
 
 ### 1906年頃
 #### [[Art/Asset/Odilon Redon/窓|窓]] 
