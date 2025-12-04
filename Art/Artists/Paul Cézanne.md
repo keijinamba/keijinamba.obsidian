@@ -29,8 +29,7 @@ in:
 ### 1890-1895年頃
 #### [[Art/Asset/Paul Cézanne/カード遊びをする人々|カード遊びをする人々]] 
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- ![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/...) -->
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/8c1ed9144c292b2f39d09e5eaec06944.jpg)
 
 ### 1898-1905年頃
 #### [[Art/Asset/Paul Cézanne/大水浴図|大水浴図]] 
