@@ -3,11 +3,11 @@ type: wine-maker
 name: Louis Jadot
 name-ja: ルイ・ジャド
 country: France
-region: "[[Wine/Regions/France/Bourgogne]]"
-sub-region: ボーヌ
+region: "[[Wine/Regions/France/Bourgogne|ブルゴーニュ]]"
+sub-region: "[[Beaune|ボーヌ]]"
 links:
   - https://ec.imaikwc.co.jp/shop/r/r70S3/
-location: "46.9514, 4.8372"
+location: "47.03834489954719, 4.840828313364821"
 tags:
   - Wine
   - Wine/Maker
