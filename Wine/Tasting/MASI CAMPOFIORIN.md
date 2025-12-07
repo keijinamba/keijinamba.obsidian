@@ -8,6 +8,7 @@ region: "[[Veneto]]"
 grape:
   - "[[Corvina]]"
   - "[[Rondinella|ロンディネッラ]]"
+  - "[[Molinara|モリナーラ]]"
 price: 
 shop: 
 rating: 0-5
