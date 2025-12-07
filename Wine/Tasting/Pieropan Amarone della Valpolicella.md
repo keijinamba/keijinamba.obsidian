@@ -7,7 +7,7 @@ country: Italy
 region: "[[Veneto]]"
 grape:
   - "[[Corvina]]"
-price: 11550
+price: ¥11,550
 shop: "[[麻布台ヒルズ インタートワイン ケーエム]]"
 rating: 4.5
 review: |-
@@ -20,6 +20,6 @@ tags:
   - Wine
 ---
 
-![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/86cae44147b6ad2a7fb3835d0adad939.jpeg)
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/86cae44147b6ad2a7fb3835d0adad939.jpeg)
 
 ---
