@@ -7,6 +7,7 @@ region: "[[Wine/Regions/France/Bourgogne|ブルゴーニュ]]"
 sub-region: "[[Beaune|ボーヌ]]"
 links:
   - https://ec.imaikwc.co.jp/shop/r/r70S3/
+  - https://www.enoteca.co.jp/producer/detail/224
 location: "47.03834489954719, 4.840828313364821"
 tags:
   - Wine
