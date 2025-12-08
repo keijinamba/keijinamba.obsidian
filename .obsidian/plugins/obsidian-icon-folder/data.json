@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLibrary",
-      "LiRocket",
-      "LiMegaphone",
-      "LiCoffee",
-      "LiImage"
+      "LiPlane",
+      "LiPawPrint",
+      "LiCode2",
+      "LiBinary",
+      "LiLibrary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,11 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Biology": "LiDog",
+  "Biology": "LiPawPrint",
   "Wine": "LiWine",
   "Geography": "LiEarth",
   "Tea": "LiCoffee",
-  "Programming": "LiLaptop",
+  "Programming": "LiCode2",
   "Tea/Assets": "LiImages",
   "Biology/Assets": "LiImages",
   "Programming/Assets": "LiImages",
@@ -80,5 +80,6 @@
   "Art/Movement": "LiMegaphone",
   "Art/Asset": "LiImage",
   "Physics": "LiRocket",
-  "Random": "LiLibrary"
+  "Random": "LiLibrary",
+  "Travel": "LiPlane"
 }
