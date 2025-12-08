@@ -1,0 +1,15 @@
+---
+type: poi
+date:
+location:
+links:
+tags:
+  - POI
+related:
+in:
+  - "[[POI]]"
+---
+
+Text
+
+---
