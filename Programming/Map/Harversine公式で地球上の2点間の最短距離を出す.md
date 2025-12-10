@@ -3,10 +3,11 @@ type: programming
 date:
 links:
   - https://ikorihn.github.io/digitalgarden/note/Haversineの公式をGoで実装する
-	- https://github.com/Turfjs/turf/blob/master/packages/turf-distance/index.ts
+  - https://github.com/Turfjs/turf/blob/master/packages/turf-distance/index.ts
 tags:
   - Programming
 related:
+  - "[[地球上のある点から○km移動した点の座標]]"
 in:
   - "[[MOC/Programming]]"
 ---

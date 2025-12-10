@@ -2,11 +2,11 @@
 type: programming
 date:
 links:
-  - https://ikorihn.github.io/digitalgarden/note/Haversineの公式をGoで実装する
-	- https://github.com/Turfjs/turf/blob/master/packages/turf-distance/index.ts
+  - https://github.com/Turfjs/turf/blob/master/packages/turf-destination/index.ts
 tags:
   - Programming
 related:
+  - "[[Harversine公式で地球上の2点間の最短距離を出す]]"
 in:
   - "[[MOC/Programming]]"
 ---
@@ -15,13 +15,8 @@ in:
 
 Haversine公式の逆算をして算出する
 
-![image|500](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Illustration_of_great-circle_distance.svg/250px-Illustration_of_great-circle_distance.svg.png)
-
-公式：
-$$D = 2r \times \arcsin\left(\sqrt{\sin^2\frac{\phi_2 - \phi_1}{2} + \cos(\phi_1) \times \cos(\phi_2) \times \sin^2\frac{\lambda_2 - \lambda_1}{2}}\right)$$
-
-- φ = 緯度、λ = 経度 を表す
-- r は地球の赤道半径 正確には 6378137m で計算する
+Harversineの公式については以下参考：
+[[Harversine公式で地球上の2点間の最短距離を出す]]
 
 ## TypeScript実装例
 
@@ -66,17 +61,45 @@ function createBoundingBox(
 
 ## Turf.jsでの実装
 
-Turf.jsの`destination`関数も内部的にHaversine公式を使用しており、同等の計算が可能。
+Turf.jsの`destination`関数は、起点（origin）から指定された距離（distance）と方位角（bearing）で移動した先の座標を計算する。
+
 https://github.com/Turfjs/turf/blob/master/packages/turf-destination/index.ts
 
+**主な処理:**
+1. 入力座標と方位角をラジアンに変換
+2. 距離をラジアン単位に変換（単位に応じて）
+3. Haversine公式の逆算を使用して目的地の座標を計算:
+   - 緯度: `asin(sin(φ₁) × cos(d) + cos(φ₁) × sin(d) × cos(θ))`
+   - 経度: `λ₁ + atan2(sin(θ) × sin(d) × cos(φ₁), cos(d) - sin(φ₁) × sin(φ₂))`
+   - ここで、φ₁, λ₁ = 起点の緯度・経度、d = 距離（ラジアン）、θ = 方位角（ラジアン）
+4. 計算結果を度に戻して返す
+
+**特徴:**
+- 方位角（bearing）を使用するため、任意の方向への移動が可能
+- 地球の曲率を考慮した正確な計算
+- 距離の単位は `kilometers`（デフォルト）、`meters`、`miles`、`nauticalmiles`、`degrees`、`radians` が指定可能
+
 ```ts
-import { destination } from '@turf/turf';
+import { point, destination } from '@turf/turf';
 
 function turfDestination(
-	point1: [number, number], // [lng, lat]
-	point2: [number, number], // [lng, lat]
-): number {
-	return destination(point1, point2, { units: 'kilometers' });
+	center: { lat: number, lng: number },
+	distanceKm: number,
+): { north: number; south: number; east: number; west: number } {
+  const centerPoint = point([center.lng, center.lat])
+
+  // 北・東・南・西方向に distanceKm だけ移動した点
+  const north = destination(centerPoint, distanceKm, 0, { units: 'kilometers' })
+  const east  = destination(centerPoint, distanceKm, 90, { units: 'kilometers' })
+  const south = destination(centerPoint, distanceKm, 180, { units: 'kilometers' })
+  const west  = destination(centerPoint, distanceKm, -90, { units: 'kilometers' })
+
+  const [, north] = north.geometry.coordinates
+  const [, south] = south.geometry.coordinates
+  const [east]    = east.geometry.coordinates
+  const [west]    = west.geometry.coordinates
+
+return { north, south, east, west }
 }
 ```
 
