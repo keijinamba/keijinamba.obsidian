@@ -14,7 +14,7 @@ tags:
   - Art/Architecture
   - 建築
 related:
-  - "[[]]"
+  - "[[国立西洋美術館]]"
 in:
   - "[[MOC/Art Artist]]"
 ---
