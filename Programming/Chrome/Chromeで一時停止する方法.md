@@ -1,9 +1,21 @@
-#Chrome #ブラウザ #Debug
+---
+type: programming
+date: 2025.10.10
+links:
+tags:
+  - Programming
+  - Chrome
+  - ブラウザ
+  - Debug
+related:
+in:
+  - "[[MOC/Programming]]"
+---
 
 > [!summary] 概要
 > Chrome DevToolsでCanvasやポップアップなど、通常の要素検証が難しいUIを強制的に表示させたまま検証するテクニック。Sourceタブで実行を一時停止し、hover状態を固定する。
 
-![[スクリーンショット 2025-11-20 18.04.39.png]]
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/5c07bd074c609214a4a2a50a25d25b4e.png)
 
 ## 手順
 

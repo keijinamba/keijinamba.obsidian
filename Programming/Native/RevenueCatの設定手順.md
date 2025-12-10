@@ -1,4 +1,18 @@
-#Expo #RevenueCat #ReactNative #AppStoreConnect
+---
+type: programming
+date: 2025.10.10
+links:
+tags:
+  - Programming
+  - Expo
+  - RevenueCat
+  - ReactNative
+  - iOS
+  - AppStoreConnect
+related:
+in:
+  - "[[MOC/Programming]]"
+---
 
 > [!summary] 概要
 > Expo（React Native）アプリでRevenueCatを正しく動作させるための前提チェックと設定手順。App Store ConnectとRevenueCat Dashboard双方での準備を完了させた後、テスト時の注意点を確認します。
