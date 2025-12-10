@@ -15,6 +15,8 @@ in:
 ---
 # Surrealism|シュルレアリスム
 
+![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/ef38ef16c7f3706889775ca3b2b23c9d.jpg)
+
 1924年にアンドレ・ブルトンが《シュルレアリスム宣言》で提唱した芸術・文学運動。「シュールなレアリズム」ではなく、“超現実”を意味する仏語「sur‑réel（シュルレエル）」に由来する。日本では「シュール」が独り歩きして「奇妙さ」の意味で使われるが、本来は無意識や夢がもたらす超現実的世界の探求が主眼。
 
 ---
@@ -28,7 +30,7 @@ in:
 ---
 
 ## 代表作家
-- [[Art/Artists/Salvador Dalí|サルバドール・ダリ]]
+- [[Art/Artists/Salvador Dali|サルバドール・ダリ]]
 - [[Art/Artists/René Magritte|ルネ・マグリット]]
 - マックス・エルンスト
 - [[Art/Artists/Joan Miró|ジョアン・ミロ]]
