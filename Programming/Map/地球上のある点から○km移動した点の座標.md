@@ -66,17 +66,17 @@ function createBoundingBox(
 
 ## Turf.jsでの実装
 
-Turf.jsの`distance`関数も内部的にHaversine公式を使用しており、同等の計算が可能。
-https://github.com/Turfjs/turf/blob/master/packages/turf-distance/index.ts
+Turf.jsの`destination`関数も内部的にHaversine公式を使用しており、同等の計算が可能。
+https://github.com/Turfjs/turf/blob/master/packages/turf-destination/index.ts
 
 ```ts
-import { distance } from '@turf/turf';
+import { destination } from '@turf/turf';
 
-function turfDistance(
+function turfDestination(
 	point1: [number, number], // [lng, lat]
 	point2: [number, number], // [lng, lat]
 ): number {
-	return distance(point1, point2, { units: 'kilometers' });
+	return destination(point1, point2, { units: 'kilometers' });
 }
 ```
 
