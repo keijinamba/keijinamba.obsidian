@@ -14,7 +14,7 @@ in:
 
 Haversine公式は、地球上の2点間の最短距離（大円距離）を計算するための公式。
 
-[Haversine formula - Wikipedia](https://en.wikipedia.org/wiki/Haversine_formula)
+![image|500](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Illustration_of_great-circle_distance.svg/250px-Illustration_of_great-circle_distance.svg.png)
 
 公式：
 $$D = 2r \times \arcsin\left(\sqrt{\sin^2\frac{\phi_2 - \phi_1}{2} + \cos(\phi_1) \times \cos(\phi_2) \times \sin^2\frac{\lambda_2 - \lambda_1}{2}}\right)$$
