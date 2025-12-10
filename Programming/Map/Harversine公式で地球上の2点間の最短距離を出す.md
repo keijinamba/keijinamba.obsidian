@@ -33,11 +33,6 @@ function deg2Rad(deg: number): number {
 	return deg * Math.PI / 180;
 }
 
-interface Point {
-	lat: number;
-	lng: number;
-}
-
 function haversineDistance(
 	point1: { lat: number, lng: number },
 	point2: { lat: number, lng: number },
