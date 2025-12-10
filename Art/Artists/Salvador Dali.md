@@ -27,10 +27,13 @@ in:
 
 ## 代表作
 
+### 1929年
+#### [[Art/Asset/Salvador Dali/大自慰者|大自慰者（The Great Masturbator）]]
+
 ### 1931年
 #### [[Art/Asset/Salvador Dali/記憶の固執|記憶の固執（The Persistence of Memory）]]
 
-### 1937年
-#### [[Art/Asset/Salvador Dali/眠り|眠り（Sleep）]]
+### 1969年
+#### [[Art/Asset/Salvador Dali/不思議の国のアリス|不思議の国のアリス（挿絵）]]
 
 ---
