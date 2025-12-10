@@ -7,9 +7,12 @@ movement: "[[Art/Movement/Modernism|モダニズム]]"
 style: Architecture
 links:
   - https://ja.wikipedia.org/wiki/ル・コルビュジエ
+  - https://www.modernliving.jp/architecture-design/architecture/g45590102/le-corbusier-2310/
 tags:
   - Art
   - Art/Artist
+  - Art/Architecture
+  - 建築
 related:
   - "[[]]"
 in:
