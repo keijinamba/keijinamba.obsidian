@@ -7,6 +7,7 @@ movement: "[[Art/Movement/Surrealism|シュルレアリスム]]"
 style: Painting
 links:
   - https://ja.wikipedia.org/wiki/サルバドール・ダリ
+  - https://artsandculture.google.com/entity/m09_xn?hl=ja
 tags:
   - Art
   - Art/Artist
