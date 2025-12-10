@@ -13,7 +13,7 @@ in:
 
 # Harversine公式の逆算をする
 
-Haversine公式は、地球上の2点間の最短距離（大円距離）を計算するための公式。
+Haversine公式の逆算をして算出する
 
 ![image|500](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Illustration_of_great-circle_distance.svg/250px-Illustration_of_great-circle_distance.svg.png)
 
@@ -26,41 +26,38 @@ $$D = 2r \times \arcsin\left(\sqrt{\sin^2\frac{\phi_2 - \phi_1}{2} + \cos(\phi_1
 ## TypeScript実装例
 
 ```ts
-// 地球の赤道半径(m)
-const EARTH_RADIUS = 6378137;
+/**
+ * 中心点から指定された距離（km）だけ東西南北に移動した点を計算する
+ */
+const createBoundingBox = (
+  center: Coordinate,
+  distanceKm: number,
+): Feature<Polygon> => {
+  const earthRadiusKm = 6371
 
-function deg2Rad(deg: number): number {
-	return deg * Math.PI / 180;
-}
+  // 緯度方向の移動（北/南）
+  const latDelta = (distanceKm / earthRadiusKm) * (180 / Math.PI)
 
-interface Point {
-	lat: number;
-	lng: number;
-}
+  // 経度方向の移動（東/西）- 緯度によって補正
+  const lngDelta =
+    ((distanceKm / earthRadiusKm) * (180 / Math.PI)) /
+    Math.cos((center.latitude * Math.PI) / 180)
 
-function haversineDistance(
-	point1: { lat: number, lng: number },
-	point2: { lat: number, lng: number },
-): number {
-	const point1Rad = {
-		lat: deg2Rad(point1.lat),
-		lng: deg2Rad(point1.lng),
-	};
-	const point2Rad = {
-		lat: deg2Rad(point2.lat),
-		lng: deg2Rad(point2.lng),
-	};
-	
-	const deltaLat = point2Rad.lat - point1Rad.lat;
-	const deltaLon = point2Rad.lng - point1Rad.lng;
-	
-	const haversine = 
-		Math.pow(Math.sin(deltaLat / 2), 2) +
-		Math.cos(point1Rad.lat) * Math.cos(point2Rad.lat) * Math.pow(Math.sin(deltaLon / 2), 2);
-	
-	const distance = EARTH_RADIUS * 2 * Math.asin(Math.sqrt(haversine));
-	
-	return distance;
+  const north = center.latitude + latDelta
+  const south = center.latitude - latDelta
+  const east = center.longitude + lngDelta
+  const west = center.longitude - lngDelta
+
+  // GeoJSON形式: [longitude, latitude]の順
+  return polygon([
+    [
+      [west, north], // 左上
+      [east, north], // 右上
+      [east, south], // 右下
+      [west, south], // 左下
+      [west, north], // 閉じる（左上に戻る）
+    ],
+  ])
 }
 ```
 
