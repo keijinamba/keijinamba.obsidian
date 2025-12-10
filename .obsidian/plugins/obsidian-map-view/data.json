@@ -60,6 +60,17 @@
       },
       "badgeOptions": {},
       "pathOptions": {}
+    },
+    {
+      "query": "[type:poi]",
+      "preset": false,
+      "iconDetails": {
+        "icon": "fa-circle",
+        "opacity": 1,
+        "markerColor": "orange"
+      },
+      "badgeOptions": {},
+      "pathOptions": {}
     }
   ],
   "zoomOnGoFromNote": 15,
