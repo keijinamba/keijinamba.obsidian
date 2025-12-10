@@ -1,18 +1,18 @@
 ---
 type: wine-region
-country: # France
-region: # Bordeaux
-region-ja: # ボルドー
+country:
+region:
+region-ja:
 sub-region:
-  - # Saint-Julien
+  - 
 red-grapes:
-  - # Cabernet Sauvignon
-  - # Merlot
+  - 
+  - 
 white-grapes:
   - 
-style: # フルボディ
-climate: # 温暖な海洋性気候で雨が多く、葡萄の成熟に適している
-soil: # 砂利質・粘土・石灰岩
+style:
+climate:
+soil:
 links:
   - 
 tags:
