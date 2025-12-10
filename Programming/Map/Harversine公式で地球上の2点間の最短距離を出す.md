@@ -24,7 +24,7 @@ $$D = 2r \times \arcsin\left(\sqrt{\sin^2\frac{\phi_2 - \phi_1}{2} + \cos(\phi_1
 
 ## TypeScript実装例
 
-```typescript
+```ts
 // 地球の赤道半径(m)
 const EARTH_RADIUS = 6378137;
 
@@ -62,5 +62,24 @@ function haversineDistance(
 	return distance;
 }
 ```
+
+## Turf.jsでの実装
+
+Turf.jsの`distance`関数もHaversine公式を使用して2点間の距離を計算できます。
+
+```ts
+import { distance } from '@turf/turf';
+
+const point1 = [139.7671, 35.6812]; // 東京駅 [経度, 緯度]
+const point2 = [-74.0060, 40.7128]; // ニューヨーク [経度, 緯度]
+
+// units: kilometers, meters, miles
+const distanceKm = distance(point1, point2, { units: 'kilometers' });
+```
+
+**注意点：**
+- Turf.jsでは座標の順序が `[longitude, latitude]`（経度、緯度）である
+- 単位は `kilometers`（デフォルト）、`meters`、`miles`、`nauticalmiles`、`degrees`、`radians` が指定可能
+- Haversine公式を使用しているため、自前実装と同じ結果が得られる
 
 ---
