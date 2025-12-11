@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLink",
       "🇯🇵",
       "LiMapPin",
       "LiPlane",
-      "LiPawPrint",
-      "LiCode2"
+      "LiPawPrint"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   "Physics": "LiRocket",
   "Random": "LiLibrary",
   "POI": "LiMapPin",
-  "POI/Japan": "🇯🇵"
+  "POI/Japan": "🇯🇵",
+  "WebClippings": "LiLink"
 }
