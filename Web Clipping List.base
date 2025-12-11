@@ -1,0 +1,24 @@
+filters:
+  and:
+    - type == "web-clipping"
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - file.name
+      - description
+      - site
+      - author
+      - created
+    sort:
+      - property: created
+        direction: DESC
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.7
+    cardSize: 240

@@ -13,6 +13,8 @@ favicon: "https://www.youtube.com/s/desktop/012ade63/img/favicon_32x32.png"
 image: "https://i.ytimg.com/vi/0ES1GXXH0nw/maxresdefault.jpg"
 tags:
   - "WebClipping"
+related:
+  - "[[量子重力理論についての対談まとめ]]"
 in:
   - "[[MOC/WebClipping]]"
 ---
