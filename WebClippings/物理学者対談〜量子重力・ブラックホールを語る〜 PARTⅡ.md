@@ -12,9 +12,20 @@ description: "【物理学者対談〜量子重力・ブラックホールを語
 favicon: "https://www.youtube.com/s/desktop/012ade63/img/favicon_32x32.png"
 image: "https://i.ytimg.com/vi/0ES1GXXH0nw/maxresdefault.jpg"
 tags:
-  - "WebClipping"
+  - WebClipping
+  - 量子力学
+  - 量子重力
+  - 宇宙
+  - 天文学
+  - ブラックホール
+  - エントロピー
 related:
-  - "[[量子重力理論についての対談まとめ]]"
+  - "[[Pysics/ModernPhysics/量子力学]]"
+  - "[[Pysics/ModernPhysics/一般相対性理論]]"
+  - "[[Pysics/ModernPhysics/量子重力]]"
+  - "[[Pysics/ModernPhysics/エントロピー]]"
+  - "[[Pysics/Astronomy/ブラックホール]]"
+  - "[[Pysics/Astronomy/ホーキング放射]]"
 in:
   - "[[MOC/WebClipping]]"
 ---

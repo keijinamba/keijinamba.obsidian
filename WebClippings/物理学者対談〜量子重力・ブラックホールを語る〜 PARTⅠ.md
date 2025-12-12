@@ -13,8 +13,18 @@ favicon: https://www.youtube.com/s/desktop/012ade63/img/favicon_32x32.png
 image: https://i.ytimg.com/vi/f9a8E--mYGc/maxresdefault.jpg
 tags:
   - WebClipping
+  - 量子力学
+  - 量子重力
+  - 宇宙
+  - 天文学
+  - ブラックホール
+  - エントロピー
 related:
-  - "[[量子重力理論についての対談まとめ]]"
+  - "[[Pysics/ModernPhysics/量子力学]]"
+  - "[[Pysics/ModernPhysics/一般相対性理論]]"
+  - "[[Pysics/ModernPhysics/量子重力]]"
+  - "[[Pysics/ModernPhysics/エントロピー]]"
+  - "[[Pysics/Astronomy/ブラックホール]]"
 in:
   - "[[MOC/WebClipping]]"
 ---
