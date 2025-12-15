@@ -1,11 +1,14 @@
 
 ```datacards
-TABLE file.link as Note, file.folder as Folder, image
+TABLE
+	file.link as Note,
+	file.folder as Folder,
+	created,
+	image
 FROM "WebClippings"
 WHERE !contains(file.name, "Template")
 SORT file.mtime desc
 
 // Settings
-preset: portrait
 imageProperty: image
 ```

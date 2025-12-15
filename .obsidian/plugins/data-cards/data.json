@@ -5,7 +5,7 @@
   "imageFit": "cover",
   "properties": "all",
   "exclude": [],
-  "scrollableProperties": true,
+  "scrollableProperties": false,
   "contentHeight": "200px",
   "showLabels": true,
   "cardSpacing": 16,
