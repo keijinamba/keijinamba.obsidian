@@ -1,8 +1,8 @@
 
 ```datacards
 TABLE
-	file.link as Note,
-	file.folder as Folder,
+	site,
+	author,
 	created,
 	image
 FROM #WebClipping 
