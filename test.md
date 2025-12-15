@@ -7,7 +7,7 @@ TABLE
 	image
 FROM #WebClipping 
 WHERE !contains(file.name, "Template")
-SORT file.mtime desc
+SORT created desc
 
 // Settings
 imageProperty: image
