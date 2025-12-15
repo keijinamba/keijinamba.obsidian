@@ -8,7 +8,7 @@ views:
     name: View
     groupBy:
       property: created
-      direction: DESC
+      direction: ASC
     order:
       - file.name
       - description
@@ -17,7 +17,7 @@ views:
       - created
     sort:
       - property: created
-        direction: DESC
+        direction: ASC
     image: note.image
     imageFit: contain
     imageAspectRatio: 0.7
