@@ -5,7 +5,7 @@ TABLE
 	file.folder as Folder,
 	created,
 	image
-FROM "WebClippings"
+FROM #WebClipping 
 WHERE !contains(file.name, "Template")
 SORT file.mtime desc
 

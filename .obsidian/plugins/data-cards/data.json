@@ -8,7 +8,7 @@
   "scrollableProperties": false,
   "contentHeight": "200px",
   "showLabels": true,
-  "cardSpacing": 16,
+  "cardSpacing": 12,
   "enableShadows": true,
   "propertiesAlign": "left",
   "titleAlign": "left",
@@ -63,6 +63,6 @@
   "showRefreshButton": true,
   "debugMode": false,
   "showFileAsTitle": true,
-  "dynamicColumns": false,
+  "dynamicColumns": true,
   "minCardWidth": "250px"
 }
