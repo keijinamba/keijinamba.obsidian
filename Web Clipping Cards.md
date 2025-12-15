@@ -3,7 +3,6 @@
 TABLE
 	site,
 	created,
-	favicon,
 	image
 FROM #WebClipping 
 WHERE !contains(file.name, "Template")
