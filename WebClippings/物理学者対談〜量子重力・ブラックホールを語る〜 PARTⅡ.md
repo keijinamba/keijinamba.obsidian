@@ -2,8 +2,7 @@
 type: "web-clipping"
 title: "物理学者対談〜量子重力・ブラックホールを語る〜 PARTⅡ"
 source: "https://www.youtube.com/watch?v=0ES1GXXH0nw"
-author:
-  - "[[iTHEMS]]"
+author: "iTHEMS"
 site: "YouTube"
 domain: "youtube.com"
 published: 2025-11-13

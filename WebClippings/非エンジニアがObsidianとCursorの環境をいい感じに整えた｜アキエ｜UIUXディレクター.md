@@ -2,8 +2,7 @@
 type: "web-clipping"
 title: "非エンジニアがObsidianとCursorの環境をいい感じに整えた｜アキエ｜UI/UXディレクター"
 source: "https://note.com/akienakai/n/nad947525d548"
-author:
-  - "[[アキエ｜UI/UXディレクター]]"
+author: "アキエ｜UI/UXディレクター"
 site: "note（ノート）"
 domain: "note.com"
 published: 2025-05-13
