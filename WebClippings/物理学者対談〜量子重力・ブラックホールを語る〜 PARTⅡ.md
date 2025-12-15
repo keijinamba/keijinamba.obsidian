@@ -31,7 +31,7 @@ in:
   - "[[MOC/WebClipping]]"
 ---
 
-![](https://www.youtube.com/watch?v=0ES1GXXH0nw)  
+![](https://www.youtube.com/embed/0ES1GXXH0nw?si=DivvaVT7DHUl6qhh)  
 
 【物理学者対談〜量子重力・ブラックホールを語る〜 PARTⅡ】  
   
