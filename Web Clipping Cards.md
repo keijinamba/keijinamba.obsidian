@@ -2,8 +2,8 @@
 ```datacards
 TABLE
 	site,
-	author,
 	created,
+	favicon,
 	image
 FROM #WebClipping 
 WHERE !contains(file.name, "Template")
