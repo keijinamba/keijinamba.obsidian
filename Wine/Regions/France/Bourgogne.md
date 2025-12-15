@@ -55,11 +55,11 @@ https://www.enoteca.co.jp/article/archives/20230829140432883/
 
 テイスティングキーワード（産地全体として）
 
-- [[Wine/Tasting/チェリー]]
-- [[Wine/Tasting/ラズベリー]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/土]]
-- [[Wine/Tasting/ミネラル]]
+- チェリー
+- ラズベリー
+- スパイス
+- 土
+- ミネラル
 
 ---
 

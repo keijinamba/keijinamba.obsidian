@@ -66,11 +66,11 @@ in:
 
 テイスティングキーワード（産地全体として）
 
-- [[Wine/Tasting/チェリー]]
-- [[Wine/Tasting/プラム]]
-- [[Wine/Tasting/スパイス]]
-- [[Wine/Tasting/ハーブ]]
-- [[Wine/Tasting/タンニン]]
+- チェリー
+- プラム
+- スパイス
+- ハーブ
+- タンニン
 
 ---
 
