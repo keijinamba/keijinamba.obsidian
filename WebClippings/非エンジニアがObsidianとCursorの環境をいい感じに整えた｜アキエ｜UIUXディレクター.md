@@ -11,6 +11,7 @@ created: 2025-12-11
 description: "こんにちは。外資系コンサルのデザイン部門にてUI/UXディレクターをしているアキエ（@__aknaka__）です。  最近、𝕏で話題になっている「Obsidian in Cursor」（AIコードエディタ\"Cursor\"でノート管理アプリ\"Obsidian\"を使いこなす）を始めました！  初心者ながら環境をあれこれ整えていく中で色々と詰まったので、その記録を残そうと思います。 非エンジニアでObsidianとCursorにチャレンジしてみたい方の参考になれれば嬉しいです。   【2025/7/12】Kindle Highlightsプラグインと、Obsidian Web Clipper"
 favicon: "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
 image: "https://assets.st-note.com/production/uploads/images/189648443/rectangle_large_type_2_29ff99560c50416be8f9043ea49e9cfd.png?fit=bounds&quality=85&width=1280"
+summarized: false
 tags:
   - "WebClipping"
 in:

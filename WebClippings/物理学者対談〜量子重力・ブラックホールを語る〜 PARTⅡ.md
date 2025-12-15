@@ -11,6 +11,7 @@ created: 2025-12-11
 description: "【物理学者対談〜量子重力・ブラックホールを語る〜 PARTⅡ】理研iTHEMSセンター長　磯 暁 X バークレー理論物理学センター長　野村 泰紀量子重力やブラックホールの最新研究について専門家二人が熱く語ります。宇宙の極限現象や、量子と重力の統合理論への挑戦について、専門的な視点からわかりやすく解説しています。大..."
 favicon: "https://www.youtube.com/s/desktop/012ade63/img/favicon_32x32.png"
 image: "https://i.ytimg.com/vi/0ES1GXXH0nw/maxresdefault.jpg"
+summarized: true
 tags:
   - WebClipping
   - 量子力学
