@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "🔴",
       "LiLink",
       "🇯🇵",
-      "LiMapPin",
-      "LiPlane"
+      "LiMapPin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "POI": "LiMapPin",
   "POI/Japan": "🇯🇵",
   "WebClippings": "LiLink",
-  "Wine/Grapes/Nero d'Avola.md": "🔴"
+  "Wine/Grapes/Nero d'Avola.md": "🔴",
+  "Diary": "LiCalendar"
 }
