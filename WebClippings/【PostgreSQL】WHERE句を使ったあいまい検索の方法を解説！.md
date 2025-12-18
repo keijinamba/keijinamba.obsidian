@@ -12,8 +12,13 @@ favicon: "https://nankurunikki.com/wp-content/uploads/2024/11/cropped-なん-く
 image: "https://nankurunikki.com/wp-content/uploads/2025/01/5.jpg"
 summarized: false
 tags:
-  - "WebClipping"
+  - WebClipping
+  - Programming
+  - Database
+  - PostgreSQL
+  - Mysql
 related:
+  - "[[【PostgreSQL・Mysql】Like検索（% _）について]]"
 in:
   - "[[MOC/WebClipping]]"
 ---

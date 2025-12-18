@@ -24,6 +24,42 @@ in:
 - `%`：0文字以上の任意の文字列
 - `_`：任意の1文字
 
+### エスケープ
+
+`%`や`_`をリテラル文字として検索する場合は、エスケープ文字（デフォルトは`\`）を使用する。
+
+#### PostgreSQL
+
+```sql
+-- 「%」を含む文字列を検索
+SELECT * FROM users WHERE name LIKE '%\%%';
+
+-- 「_」を含む文字列を検索
+SELECT * FROM users WHERE name LIKE '%\_%';
+
+-- ESCAPE句でエスケープ文字を指定
+SELECT * FROM users WHERE name LIKE '%#%' ESCAPE '#';
+```
+
+#### MySQL
+
+```sql
+-- 「%」を含む文字列を検索
+SELECT * FROM pet WHERE name LIKE '%\%%';
+
+-- 「_」を含む文字列を検索
+SELECT * FROM pet WHERE name LIKE '%\_%';
+
+-- ESCAPE句でエスケープ文字を指定
+SELECT * FROM pet WHERE name LIKE '%#%' ESCAPE '#';
+```
+
+**注意点：**
+- デフォルトのエスケープ文字は`\`（バックスラッシュ）
+- `ESCAPE`句で任意の文字をエスケープ文字として指定可能
+- エスケープ文字自体を検索する場合は、エスケープ文字を2つ続けて記述（例：`\\`）
+
+
 ## PostgreSQL
 
 ### 基本構文
