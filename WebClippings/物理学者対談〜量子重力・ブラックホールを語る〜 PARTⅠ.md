@@ -20,11 +20,11 @@ tags:
   - ブラックホール
   - エントロピー
 related:
-  - "[[Pysics/ModernPhysics/量子力学]]"
-  - "[[Pysics/ModernPhysics/一般相対性理論]]"
-  - "[[Pysics/ModernPhysics/量子重力]]"
-  - "[[Pysics/ModernPhysics/エントロピー]]"
-  - "[[Pysics/Astronomy/ブラックホール]]"
+  - "[[Physics/ModernPhysics/量子力学]]"
+  - "[[Physics/ModernPhysics/一般相対性理論]]"
+  - "[[Physics/ModernPhysics/量子重力]]"
+  - "[[Physics/ModernPhysics/エントロピー]]"
+  - "[[Physics/Astronomy/ブラックホール]]"
 in:
   - "[[MOC/WebClipping]]"
 ---
