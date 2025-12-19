@@ -21,9 +21,9 @@ in:
 
 # Le Corbusier|ル・コルビュジエ
 
-![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d8e337837a14f259a39b861ee39f359b.jpeg)
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/d8e337837a14f259a39b861ee39f359b.jpeg)
 
-![image|400](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4425b9ae2831d6cbbe2cd21a88145483.jpg)
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/4425b9ae2831d6cbbe2cd21a88145483.jpg)
 
 20世紀近代建築の3巨匠
 
