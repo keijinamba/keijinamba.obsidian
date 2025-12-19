@@ -2,5 +2,6 @@
 .workspace-leaf-content img:not([width]),
 .markdown-preview-view img:not([width]),
 .markdown-rendered img:not([width]) {
+  width: 100%;
   max-width: 400px;
 }
