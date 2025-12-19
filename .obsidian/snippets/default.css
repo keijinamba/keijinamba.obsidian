@@ -1,0 +1,4 @@
+/* デフォルトの画像サイズ */
+.image-embed.image-embed img:not([width]) {
+  max-width: 400px;
+}
