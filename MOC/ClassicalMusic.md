@@ -1,9 +1,8 @@
 ---
-up: "[[MOC/Art]]"
+up: 
 related: 
-created: 2025/11/20
+created: 2025/12/20
 in:
-  - "[[MOC/Art]]"
 ---
 
 ```dataview
@@ -11,7 +10,7 @@ TABLE
   file.folder as "Parent Folder",
   length(file.outlinks) as "Links"
 WHERE
-	contains(in, this.file.link) and
+	contains(up, this.file.link) and
 	!contains(file.name, "Template")
 SORT file.mtime desc
 ```

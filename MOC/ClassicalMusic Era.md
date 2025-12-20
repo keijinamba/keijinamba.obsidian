@@ -1,9 +1,9 @@
 ---
-up: "[[MOC/Art]]"
+up: "[[MOC/ClassicalMusic]]"
 related: 
-created: 2025/11/20
+created: 2025/12/20
 in:
-  - "[[MOC/Art]]"
+  - "[[MOC/ClassicalMusic]]"
 ---
 
 ```dataview
