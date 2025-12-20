@@ -29,27 +29,27 @@ in:
 ### 1870年
 #### [[Art/Asset/Henri Fantin-Latour/バティニョールのアトリエ|バティニョールのアトリエ]]
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/8cc5ca20562e07ac413c49da1bacfa00.jpg)
 
 ### 1873年
 #### [[Art/Asset/Henri Fantin-Latour/花瓶にいけられた菊|花瓶にいけられた菊]]
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/9bfcf77ce5c7c1a5374d4ee3a9239dc4.jpg)
 
 ### 1876年
 #### [[Art/Asset/Henri Fantin-Latour/ヴィクトリア デュブール|ヴィクトリア デュブール]]
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/6a06943359ab64c02cfbcb0214760baf.jpg)
 
 ### 1878年
 #### [[Art/Asset/Henri Fantin-Latour/デュブール家の肖像|デュブール家の肖像]]
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/12a2e813896bcc82c92ef618c64424d5.jpg)
 
 ### 1882年
 #### [[Art/Asset/Henri Fantin-Latour/鉢にいけられたバラ|鉢にいけられたバラ]]
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/9cea9dc713f172e457489e6a03dc82f6.jpg)
 
 ---
 
