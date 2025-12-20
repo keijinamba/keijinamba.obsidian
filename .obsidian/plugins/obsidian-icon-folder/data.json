@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHistory",
+      "LiUser2",
       "LiMusic",
       "LiMusic4",
-      "LiCalendar",
-      "🔴",
-      "LiLink"
+      "LiCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -84,5 +84,7 @@
   "WebClippings": "LiLink",
   "Wine/Grapes/Nero d'Avola.md": "🔴",
   "Diary": "LiCalendar",
-  "Classical Music": "LiMusic"
+  "Classical Music": "LiMusic",
+  "Classical Music/Composer": "LiUser2",
+  "Classical Music/Eras": "LiHistory"
 }

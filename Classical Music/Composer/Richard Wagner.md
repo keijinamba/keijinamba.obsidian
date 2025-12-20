@@ -31,12 +31,22 @@ in:
 ### 楽劇・オペラ
 
 - 「ラインの黄金」（Das Rheingold）- 1854年完成
+
 - 「ワルキューレ」（Die Walküre）- 1856年完成
+
+![](https://www.youtube.com/embed/wly_Pzbw-A8?si=zcyxp6t56-fG4xpT)
+
+
 - 「ジークフリート」（Siegfried）- 1871年完成
+
 - 「神々の黄昏」（Götterdämmerung）- 1874年完成
+
 - 「トリスタンとイゾルデ」（Tristan und Isolde）- 1859年完成
+
 - 「タンホイザー」（Tannhäuser）- 1845年初演
+
 - 「ローエングリン」（Lohengrin）- 1850年初演
+
 - 「パルジファル」（Parsifal）- 1882年初演
 
 ---
