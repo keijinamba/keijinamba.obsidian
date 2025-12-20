@@ -11,7 +11,6 @@ tags:
   - Art
   - Art/Artist
 related:
-  - "[[]]"
 in:
   - "[[MOC/Art Artist]]"
 ---
@@ -40,6 +39,10 @@ in:
 #### [[Art/Asset/Henri Fantin-Latour/ヴィクトリア デュブール|ヴィクトリア デュブール]]
 
 ![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/6a06943359ab64c02cfbcb0214760baf.jpg)
+
+#### [[Art/Asset/Henri Fantin-Latour/ラインの娘たち|ラインの娘たち]]
+
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/b33afb723fcc10cf3e32aa6cc0a482a9.jpg)
 
 ### 1878年
 #### [[Art/Asset/Henri Fantin-Latour/デュブール家の肖像|デュブール家の肖像]]
