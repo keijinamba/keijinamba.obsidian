@@ -26,13 +26,28 @@ in:
 
 ## 代表作
 
-### 1859年
-#### [[Art/Asset/Henri Fantin-Latour/自画像|自画像]]
+### 1870年
+#### [[Art/Asset/Henri Fantin-Latour/バティニョールのアトリエ|バティニョールのアトリエ]]
 
 <!-- upload image here -->
 
-### 1864年
-#### [[Art/Asset/Henri Fantin-Latour/ドラクロワへのオマージュ|ドラクロワへのオマージュ]]
+### 1873年
+#### [[Art/Asset/Henri Fantin-Latour/花瓶にいけられた菊|花瓶にいけられた菊]]
+
+<!-- upload image here -->
+
+### 1876年
+#### [[Art/Asset/Henri Fantin-Latour/ヴィクトリア デュブール|ヴィクトリア デュブール]]
+
+<!-- upload image here -->
+
+### 1878年
+#### [[Art/Asset/Henri Fantin-Latour/デュブール家の肖像|デュブール家の肖像]]
+
+<!-- upload image here -->
+
+### 1882年
+#### [[Art/Asset/Henri Fantin-Latour/鉢にいけられたバラ|鉢にいけられたバラ]]
 
 <!-- upload image here -->
 
