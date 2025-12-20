@@ -11,13 +11,17 @@ tags:
   - Art
   - Art/Artist
 related:
+  - "[[Art/Artists/Edgar Degas|エドガー・ドガ]]"
+  - "[[Art/Artists/Édouard Manet|エドゥアール・マネ]]"
+  - "[[Art/Artists/Berthe Morisot|ベルト・モリゾ]]"
+  - "[[Art/Artists/James McNeill Whistler|ジェームズ・マクニール・ホイッスラー]]"
 in:
   - "[[MOC/Art Artist]]"
 ---
 
 # Henri Fantin-Latour|アンリ・ファンタン＝ラトゥール
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/de54dd2fb87e49f8d599b088fefe7f27.jpg)
 
 フランスの画家、リトグラフの版画家。1836年1月14日、グルノーブル生まれ。父親も画家で、エコール・デ・ボザールで学んだ。印象派の画家と同世代で親しかったが、写実主義のスタイルで描いた。花を描いた作品がイギリスで人気を博した。1864年の「ドラクロワへのオマージュ」など、同時代の画家や詩人を描いた集団肖像画でも知られる。エドガー・ドガ、エドゥアール・マネ、ベルト・モリゾ、ジェームズ・マクニール・ホイッスラーらと親交があった。
 
