@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScale",
+      "LiOrbit",
       "LiHistory",
       "LiUser2",
-      "LiMusic",
-      "LiMusic4",
-      "LiCalendar"
+      "LiMusic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,5 +86,7 @@
   "Diary": "LiCalendar",
   "Classical Music": "LiMusic",
   "Classical Music/Composer": "LiUser2",
-  "Classical Music/Eras": "LiHistory"
+  "Classical Music/Eras": "LiHistory",
+  "Physics/Astronomy": "LiOrbit",
+  "Physics/ModernPhysics": "LiScale"
 }
