@@ -113,6 +113,8 @@ CERNの研究者**ティム・バーナーズ＝リー**が、研究者間の情
 
 ### FCC（Future Circular Collider）
 
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/ebe2bfb31da7ff76f85ae8e0b276e6f4.jpeg)
+
 LHCの後継となる次世代加速器計画。
 
 | 項目 | 詳細 |
