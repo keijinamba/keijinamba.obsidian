@@ -21,6 +21,8 @@ in:
 
 ## 概要
 
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/c3f5cfdb7f6d6f602617f7ecfeb87785.jpeg)
+
 **CERN**（セルン、欧州原子核研究機構）は、スイス・ジュネーヴ郊外でフランスとの国境地帯にまたがって位置する**世界最大規模の素粒子物理学研究所**。正式名称は「Organisation Européenne pour la Recherche Nucléaire（欧州原子核研究機構）」。
 
 CERNという略称は、設立準備段階の暫定理事会「Conseil Européen pour la Recherche Nucléaire（欧州原子核研究理事会）」に由来する。
