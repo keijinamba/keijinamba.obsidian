@@ -20,7 +20,7 @@ in:
 
 # Victor Hugo|ビクトール・ユーゴー
 
-<!-- upload image here -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/7fc804abaa32099168dbdfd614437039.jpg)
 
 フランスの作家・詩人。1802年2月26日、ブザンソン生まれ。1885年5月22日没。ロマン主義文学の代表的な作家として、小説、詩、戯曲など幅広い分野で作品を残した。社会問題や人間の内面を深く描き、19世紀フランス文学に大きな影響を与えた。
 
@@ -31,20 +31,12 @@ in:
 ### 1831年
 #### ノートルダム・ド・パリ（ノートルダムの鐘）
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- TODO: 画像を追加 -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/32d419b74a7e37cf03e27a9672463a7a.jpg)
 
 ### 1862年
 #### レ・ミゼラブル
 
-<!-- image url in the Asset note (width is 400) -->
-<!-- TODO: 画像を追加 -->
-
-### 1874年
-#### 九十三年
-
-<!-- image url in the Asset note (width is 400) -->
-<!-- TODO: 画像を追加 -->
+![image](https://pub-af1bf2eacb4144a2ba4ea3ff8d6dc608.r2.dev/2470ac1a6a40c30ceb1841978ff1a3db.jpg)
 
 ---
 

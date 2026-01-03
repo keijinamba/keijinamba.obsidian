@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
+      "LiBook",
       "LiScale",
       "LiOrbit",
-      "LiHistory",
-      "LiUser2",
-      "LiMusic"
+      "LiHistory"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,7 @@
   "Classical Music/Composer": "LiUser2",
   "Classical Music/Eras": "LiHistory",
   "Physics/Astronomy": "LiOrbit",
-  "Physics/ModernPhysics": "LiScale"
+  "Physics/ModernPhysics": "LiScale",
+  "Literature": "LiBookOpen",
+  "Literature/Authors": "LiUser2"
 }
