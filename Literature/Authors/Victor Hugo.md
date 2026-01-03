@@ -1,21 +1,21 @@
 ---
-type: art-artist
+type: literature-author
 name: Victor Hugo
 name-ja: ビクトール・ユーゴー
 country: France
 birth-date: 1802/2/26
 death-date: 1885/5/22
 movement: "[[Art/Movement/Romanticism|ロマン主義]]"
-style: Literature / Poetry
+style: Novel / Poetry / Drama
 links:
   - https://ja.wikipedia.org/wiki/ヴィクトル・ユーゴー
 tags:
-  - Art
-  - Art/Artist
+  - Literature
+  - Literature/Author
 related:
   - "[[]]"
 in:
-  - "[[MOC/Art Artist]]"
+  - "[[MOC/Literature Author]]"
 ---
 
 # Victor Hugo|ビクトール・ユーゴー
