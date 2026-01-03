@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShapes",
       "LiBookOpen",
       "LiBook",
       "LiScale",
-      "LiOrbit",
-      "LiHistory"
+      "LiOrbit"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,5 +90,6 @@
   "Physics/Astronomy": "LiOrbit",
   "Physics/ModernPhysics": "LiScale",
   "Literature": "LiBookOpen",
-  "Literature/Authors": "LiUser2"
+  "Literature/Authors": "LiUser2",
+  "MOC/Philosophy": "LiShapes"
 }
