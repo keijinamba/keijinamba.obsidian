@@ -1,19 +1,24 @@
 ---
-type: "web-clipping"
-title: "【興味深さSSS】まるでダヴィンチコード..ノートルダム寺院の秘密..初代フリーメーソン..ノートルダムの鐘の原作..カジモドはキリスト？【ヴィクトルユーゴー/岡田斗司夫/切り抜き】"
-source: "https://www.youtube.com/watch?v=4sOE3HU1gQk"
-author: "おたくの王様論"
-site: "YouTube"
-domain: "youtube.com"
+type: web-clipping
+title: 【興味深さSSS】まるでダヴィンチコード..ノートルダム寺院の秘密..初代フリーメーソン..ノートルダムの鐘の原作..カジモドはキリスト？【ヴィクトルユーゴー/岡田斗司夫/切り抜き】
+source: https://www.youtube.com/watch?v=4sOE3HU1gQk
+author: おたくの王様論
+site: YouTube
+domain: youtube.com
 published: 2022-09-24
 created: 2026-01-04T00:25:17+09:00
-description: "ご視聴ありがとうございます。チャンネル登録・高評価よろしくお願いします！▼前回の動画はこちら！(ノートルダムの鐘)https://youtu.be/leooN1r11os▼元動画はこちら！https://www.youtube.com/watch?v=rCjHNYGR8YEhttps://www.youtube...."
-favicon: "https://www.youtube.com/s/desktop/aaaab8bf/img/favicon_32x32.png"
-image: "https://i.ytimg.com/vi/4sOE3HU1gQk/maxresdefault.jpg"
+description: ご視聴ありがとうございます。チャンネル登録・高評価よろしくお願いします！▼前回の動画はこちら！(ノートルダムの鐘)https://youtu.be/leooN1r11os▼元動画はこちら！https://www.youtube.com/watch?v=rCjHNYGR8YEhttps://www.youtube....
+favicon: https://www.youtube.com/s/desktop/aaaab8bf/img/favicon_32x32.png
+image: https://i.ytimg.com/vi/4sOE3HU1gQk/maxresdefault.jpg
 summarized: false
 tags:
-  - "WebClipping"
+  - WebClipping
+  - 錬金術
+  - ヴィクトル・ユーゴー
+  - ノートルダム寺院
+  - ダヴィンチ・コード
 related:
+  - "[[Victor Hugo]]"
 in:
   - "[[MOC/WebClipping]]"
 ---

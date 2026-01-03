@@ -12,6 +12,7 @@ links:
 tags:
   - Literature
   - Literature/Author
+  - ヴィクトル・ユーゴー
 related:
   - "[[]]"
 in:
