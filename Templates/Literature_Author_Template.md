@@ -6,7 +6,7 @@ country: # Country
 birth-date: # YYYY/M/D
 death-date: # YYYY/M/D (if applicable)
 movement: # "[[Literature/Movement/MovementName|運動名]]"
-style: # Novel / Poetry / Drama / Essay / etc...
+style: # Novel / Poetry / Drama / Essay / Academic / Non-fiction / etc...
 links:
   - 
 tags:
@@ -21,6 +21,8 @@ in:
 # Author Name|著者名（日本語）
 
 <!-- upload image here -->
+
+**注意**: このプロジェクトにおいて、Literatureは書物全般（小説、詩、戯曲、学術書、ノンフィクションなど）を指す。
 
 description here
 
