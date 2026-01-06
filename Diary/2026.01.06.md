@@ -1,0 +1,13 @@
+---
+type: diary
+links:
+tags:
+  - Diary
+related:
+in:
+  - "[[MOC/Diary]]"
+---
+
+Text
+
+---
